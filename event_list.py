@@ -97,7 +97,6 @@ def tag_category_name(name):
             tags.append(f"age_{age_plus_match.group(1)}_plus")
 
     # Category level
-    # Only match "pro" as a standalone word, not as part of another word like "program"
     if re.search(r"\bpro\b", name):
       tags.append("pro")
     cat_match = re.search(r"cat\s*([\d\s*/]+)", name)
