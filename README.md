@@ -1,13 +1,18 @@
 # Bikereg Cyclocross Event Scraper
 
-This tool fetches cyclocross events from the Bikereg GraphQL API and saves them to a structured CSV file for further analysis.
+This tool fetches cyclocross event data from BikeReg.com using both the public GraphQL and REST APIs, enriches the data with registration counts and category metadata, and outputs a structured CSV file for downstream use.
 
 ## Features
 
-- Uses the public Bikereg GraphQL endpoint
-- Stores results in `output/cyclocross_events.csv`
-- De-duplicates events using `eventId`
-- Captures event details, registration info, and category breakdowns
+- Fetches event listings from the public GraphQL endpoint
+- Enriches event data using the REST API to extract registration counts
+- Applies tag extraction logic to identify:
+  - Gender (e.g., men, women, non-binary)
+  - Age group classification (e.g., juniors, masters)
+  - Category level (e.g., Cat 1–5, Pro, Elite, Beginner)
+- Saves data to `output/cyclocross_events.csv`
+- Deduplicates events using `eventId`
+- Modular codebase with support for future expansion
 
 ## Setup
 
