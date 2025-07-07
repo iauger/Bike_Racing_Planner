@@ -1,0 +1,1012 @@
+eventId,categoryName,distance,startTime,registrationCount,tags
+66927,"I’m OUT - I can no longer race (Choose ""EDIT MY ENTRY"" and move yourself into this CAT)",0,2024-10-05T10:00:00.000-04:00,0,[]
+66927,Singlespeed Championship - Men,55.5,2025-10-04T10:00:00.000-04:00,0,['men']
+66927,Singlespeed Championship - Women,55.5,2025-10-04T10:00:00.000-04:00,0,['women']
+66927,Fixed Gear Championship,55.5,2025-10-04T10:00:00.000-04:00,0,[]
+66927,BIKE RACE VOLUNTEER,0,2025-10-04T10:00:00.000-04:00,0,[]
+67565,Women Elite 1/2/3,50,2024-07-01T14:00:00.000-04:00,0,"['women', 'elite']"
+67565,Men Elite 1/2/3,50,2024-07-01T15:00:00.000-04:00,0,"['men', 'elite']"
+67565,Masters Men 40+,45,2024-08-07T10:00:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+67565,Men Masters 50+,45,2024-08-07T10:01:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+67565,Men Masters 60+,45,2024-08-07T10:02:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+67565,Women 4 & Novice (cat 5),45,2024-08-07T11:00:00.000-04:00,0,"['women', 'cat_5', 'beginner']"
+67565,Women Masters 40+,45,2024-08-07T11:01:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+67565,Women Masters 50+,45,2024-08-07T11:01:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+67565,Women Masters 60+,45,2024-08-07T11:01:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+67565,Junior Boys 15-18,30,2024-08-07T12:00:00.000-04:00,0,['junior']
+67565,Junior Girls 15-18,30,2024-08-07T12:01:00.000-04:00,0,['junior']
+67565,Cat 3 & 4 Men,45,2024-08-07T13:00:00.000-04:00,0,"['men', 'cat_3']"
+67565,Intro to Cross Racing & Course Inspection,45,2024-09-01T08:00:00.000-04:00,0,[]
+67565,Volunteer,,2024-09-01T09:00:00.000-04:00,0,[]
+67565,Men Cat 4 & Novice (cat 5),45,2024-09-01T09:00:00.000-04:00,0,"['men', 'cat_4', 'beginner']"
+67565,Non-binary (cat 1-5),45,2024-09-01T11:00:00.000-04:00,0,"['non_binary', 'cat_1']"
+67565,Junior Boys 13-14,30,2024-09-01T12:00:00.000-04:00,0,['junior']
+67565,Holyoke Youth Racer (FREE),1-5,2024-09-01T12:00:00.000-04:00,0,[]
+67565,Junior Girls 13-14,30,2024-09-01T12:01:00.000-04:00,0,['junior']
+67565,Junior race 9-12 (boys and girls scored separately),2,2024-09-01T12:40:00.000-04:00,0,['junior']
+67565,"'Big kids' race 5-8 year olds (all genders, boys and girls scored separately)",1,2024-09-01T12:42:00.000-04:00,0,[]
+67565,Singlespeed,45,2024-09-01T13:01:00.000-04:00,0,[]
+67565,Women's 3/4,50,2024-09-01T14:01:00.000-04:00,0,['women']
+67565,"NCC Kids race (3-10 years old)  (separate, rad small course)",1-5,2025-08-31T10:30:00.000-04:00,0,[]
+68289,Team Tent Space,,2024-09-22T07:00:00.000-04:00,0,[]
+68289,Team Tent Space Waitlist,,2024-09-22T07:00:00.000-04:00,0,[]
+68289,Open 5/Novice,30,2025-06-05T08:15:00.000-04:00,0,"['mixed', 'beginner']"
+68289,Womens 5/Novice,30,2025-06-05T08:15:00.000-04:00,0,['beginner']
+68289,Open Masters 50+ (Cat 1-4),45,2025-06-05T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_50_plus', 'cat_1']"
+68289,Open Masters 60+ (Cat 1-4),45,2025-06-05T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_60_plus', 'cat_1']"
+68289,Junior Open 9-12,30,2025-06-05T10:00:00.000-04:00,0,"['mixed', 'junior']"
+68289,Junior Open 13-14 / Middle School,30,2025-06-05T10:00:00.000-04:00,0,"['mixed', 'junior']"
+68289,Junior Girls 6-8,1,2025-06-05T10:00:00.000-04:00,0,['junior']
+68289,Junior Girls 9-12,30,2025-06-05T10:00:00.000-04:00,0,['junior']
+68289,Junior Girls 13-14 / Middle School,30,2025-06-05T10:00:00.000-04:00,0,['junior']
+68289,Open 4/5,40,2025-06-05T11:00:00.000-04:00,0,['mixed']
+68289,Jr Boys 15-18 (Cat 3/4/5 Only),40,2025-06-05T11:00:00.000-04:00,0,"['cat_3', 'cat_4', 'cat_5']"
+68289,Open Masters 40+ (CX Cat 1-4),45,2025-09-21T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_40_plus', 'cat_1']"
+68289,Junior Open 6-8,1,2025-09-21T10:00:00.000-04:00,0,"['mixed', 'junior']"
+68289,Kids Free Run!,10,2025-09-21T10:45:00.000-04:00,0,[]
+68289,Women 4/5 (Novice),40,2025-09-21T12:00:00.000-04:00,0,"['women', 'beginner']"
+68289,Jr Girls 15-18 (3/4/5),40,2025-09-21T12:00:00.000-04:00,0,[]
+68289,Non-Binary 4/5,40,2025-09-21T12:00:00.000-04:00,0,['non_binary']
+68289,Open 3/4,45,2025-09-21T13:00:00.000-04:00,0,['mixed']
+68289,Open Single Speed,45,2025-09-21T13:00:00.000-04:00,0,['mixed']
+68289,WTFNB Single Speed,45,2025-09-21T13:00:00.000-04:00,0,['non_binary']
+68289,Women Pro 1/2/3,50,2025-09-21T14:00:00.000-04:00,0,"['women', 'pro']"
+68289,Women 3/4,48,2025-09-21T14:02:00.000-04:00,0,['women']
+68289,Women 40+ (Masters),48,2025-09-21T14:02:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+68289,Nonbinary 1-4,48,2025-09-21T14:02:00.000-04:00,0,['non_binary']
+68289,Men Pro 1/2/3,60,2025-09-21T15:00:00.000-04:00,0,"['men', 'pro']"
+68291,Team Tent Space with Parking,,2024-09-09T23:59:00.000-04:00,0,[]
+68291,Team Tent Space without parking,,2024-09-09T23:59:00.000-04:00,0,[]
+68291,Women and Juniors Pre Race Clinic,1,2025-05-02T07:30:00.000-04:00,0,"['women', 'junior']"
+68291,Men Pre Race Clinic,1,2025-05-02T07:30:00.000-04:00,0,['men']
+68291,Men Pre Race Clinic Waitlist,1,2025-05-02T07:30:00.000-04:00,0,['men']
+68291,Open 5,30,2025-09-06T08:15:00.000-04:00,0,['mixed']
+68291,Womens 5,30,2025-09-06T08:15:00.000-04:00,0,[]
+68291,Open Masters 40+ (CX Cat 1-4),45,2025-09-06T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_40_plus', 'cat_1']"
+68291,Open Masters 50+ (CX Cat 1-4),45,2025-09-06T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_50_plus', 'cat_1']"
+68291,Open Masters 60+ (CX Cat 1-4),45,2025-09-06T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_60_plus', 'cat_1']"
+68291,Junior Open 13-14/Middle School,30,2025-09-06T10:00:00.000-04:00,0,"['mixed', 'junior']"
+68291,Junior Girls 13-14/Middle School,30,2025-09-06T10:00:00.000-04:00,0,['junior']
+68291,Junior Open 9-12,28,2025-09-06T10:02:00.000-04:00,0,"['mixed', 'junior']"
+68291,Junior Girls 9-12,28,2025-09-06T10:02:00.000-04:00,0,['junior']
+68291,Junior Open 6-8,1,2025-09-06T10:04:00.000-04:00,0,"['mixed', 'junior']"
+68291,Junior Girls 6-8,1,2025-09-06T10:04:00.000-04:00,0,['junior']
+68291,10 and Under Race of Thunder!,10,2025-09-06T10:45:00.000-04:00,0,[]
+68291,Open Cat 4/5 (Novice),40,2025-09-06T11:00:00.000-04:00,0,"['mixed', 'cat_4', 'cat_5', 'beginner']"
+68291,Junior Open 15-18/High School (Cat 3/4/5 only),40,2025-09-06T11:00:00.000-04:00,0,"['mixed', 'junior', 'cat_3', 'cat_4', 'cat_5']"
+68291,Womens 4/Novice (Cat 5),40,2025-09-06T12:00:00.000-04:00,0,"['cat_5', 'beginner']"
+68291,Junior Girls 15-18/High School (Cat 3/4/5 only),40,2025-09-06T12:00:00.000-04:00,0,"['junior', 'cat_3', 'cat_4', 'cat_5']"
+68291,Non-Binary 4/5,40,2025-09-06T12:00:00.000-04:00,0,['non_binary']
+68291,Open Cat 3/4,45,2025-09-06T13:00:00.000-04:00,0,"['mixed', 'cat_3', 'cat_4']"
+68291,WTFNB Singlespeed,45,2025-09-06T13:00:00.000-04:00,0,['non_binary']
+68291,Open Singlespeed,45,2025-09-06T13:00:00.000-04:00,0,['mixed']
+68291,Women's (Pro/1/2/3),50,2025-09-06T14:00:00.000-04:00,0,"['women', 'pro']"
+68291,Womens 40+ (1-4),48,2025-09-06T14:02:00.000-04:00,0,"['masters', 'age_40_plus']"
+68291,Womens 3/4,48,2025-09-06T14:02:00.000-04:00,0,[]
+68291,Non Binary 1-4,48,2025-09-06T14:02:00.000-04:00,0,[]
+68291,Open Pro 1/2/3,50,2025-09-06T15:00:00.000-04:00,0,"['mixed', 'pro']"
+68292,Team Tent Space,,2024-10-15T23:59:00.000-04:00,0,[]
+68292,Women's (Pro/1/2/3),50,2025-06-14T14:00:00.000-04:00,0,"['women', 'pro']"
+68292,Open 5,30,2025-09-27T08:15:00.000-04:00,0,['mixed']
+68292,Womens 5,30,2025-09-27T08:15:00.000-04:00,0,[]
+68292,Open Masters 40+ (CX Cat 1-4),45,2025-09-27T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_40_plus', 'cat_1']"
+68292,Open Masters 50+ (CX Cat 1-4),45,2025-09-27T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_50_plus', 'cat_1']"
+68292,Open Masters 60+ (CX Cat 1-4),45,2025-09-27T09:00:00.000-04:00,0,"['mixed', 'masters', 'age_60_plus', 'cat_1']"
+68292,Juniors Open 13-14/Middle School,30,2025-09-27T10:00:00.000-04:00,0,"['mixed', 'junior']"
+68292,Junior Girls 13-14/Middle School,30,2025-09-27T10:00:00.000-04:00,0,['junior']
+68292,Junior Open 9-12,28,2025-09-27T10:02:00.000-04:00,0,"['mixed', 'junior']"
+68292,Junior Girls 9-12,28,2025-09-27T10:02:00.000-04:00,0,['junior']
+68292,Junior Open 6-8,1,2025-09-27T10:04:00.000-04:00,0,"['mixed', 'junior']"
+68292,Junior Girls 6-8,1,2025-09-27T10:04:00.000-04:00,0,['junior']
+68292,10 and Under Race of Thunder!,10,2025-09-27T10:45:00.000-04:00,0,[]
+68292,Open Cat 4/5 (Novice),40,2025-09-27T11:00:00.000-04:00,0,"['mixed', 'cat_4', 'cat_5', 'beginner']"
+68292,Junior Open 15-18/High School (Cat 3/4/5 only),40,2025-09-27T11:00:00.000-04:00,0,"['mixed', 'junior', 'cat_3', 'cat_4', 'cat_5']"
+68292,Womens 4/Novice (Cat 5),40,2025-09-27T12:00:00.000-04:00,0,"['cat_5', 'beginner']"
+68292,Junior Girls 15-18/High School (Cat 3/4/5 only),40,2025-09-27T12:00:00.000-04:00,0,"['junior', 'cat_3', 'cat_4', 'cat_5']"
+68292,Non-Binary 4/5,40,2025-09-27T12:00:00.000-04:00,0,['non_binary']
+68292,Open Cat 3/4,45,2025-09-27T13:00:00.000-04:00,0,"['mixed', 'cat_3', 'cat_4']"
+68292,WTFNB Singlespeed - Part of the NECXSS Series!,45,2025-09-27T13:00:00.000-04:00,0,['non_binary']
+68292,Open Singlespeed - Part of the NECXSS Series!,45,2025-09-27T13:00:00.000-04:00,0,['mixed']
+68292,Womens 40+ (1-4),48,2025-09-27T14:02:00.000-04:00,0,"['masters', 'age_40_plus']"
+68292,Women's 3/4,48,2025-09-27T14:02:00.000-04:00,0,['women']
+68292,Non Binary (1-4),48,2025-09-27T14:02:00.000-04:00,0,[]
+68292,Open Pro 1/2/3,50,2025-09-27T15:00:00.000-04:00,0,"['mixed', 'pro']"
+68325,Open B,40,2025-01-04T10:30:00.000-05:00,3,['mixed']
+68325,"WTFNB (Women, Trans, Femme, Non-binary)",40,2025-01-04T11:30:00.000-05:00,0,['women']
+68325,Open A,60,2025-01-04T12:30:00.000-05:00,9,['mixed']
+68325,Single Speed Open,60,2025-01-04T14:00:00.000-05:00,9,['mixed']
+69609,Beginner Clinic and Course Preview,50,2025-02-07T08:00:00.000-05:00,0,['beginner']
+69609,Master Men 50+ (Cat 1-4),45,2025-02-07T09:00:00.000-05:00,0,"['men', 'masters', 'age_50_plus', 'cat_1']"
+69609,Master Men 60+ (Cat 1-4),45,2025-02-07T09:00:00.000-05:00,0,"['men', 'masters', 'age_60_plus', 'cat_1']"
+69609,Master Men 40+ (Cat 1-4),45,2025-02-07T09:00:00.000-05:00,0,"['men', 'masters', 'age_40_plus', 'cat_1']"
+69609,Kids U9 Course,,2025-02-07T23:59:00.000-05:00,0,[]
+69609,Women Cat 4/Novice,40,2025-06-30T09:55:00.000-04:00,0,"['women', 'cat_4', 'beginner']"
+69609,Junior Girls Age 15-18,40,2025-06-30T09:55:00.000-04:00,0,"['junior', 'age_15_18']"
+69609,Non-Binary Cat 4/Novice,40,2025-06-30T09:55:00.000-04:00,0,"['non_binary', 'cat_4', 'beginner']"
+69609,Cat 3/4 Women,50,2025-06-30T13:10:00.000-04:00,0,"['women', 'cat_3', 'cat_4']"
+69609,Master Women 40+/50+/60+ (Cat 1-4),50,2025-06-30T13:10:00.000-04:00,0,"['women', 'masters', 'age_40_plus', 'cat_1']"
+69609,Cat 1/2/3 Women,50,2025-06-30T13:10:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+69609,Non-Binary Cat 1/2/3/4,50,2025-06-30T13:10:00.000-04:00,0,"['non_binary', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+69609,Womens 2 Person Relay,45,2025-06-30T15:10:00.000-04:00,0,[]
+69609,Mens 2 Person Relay,45,2025-06-30T15:10:00.000-04:00,0,[]
+69609,Co-Ed 2 Person Relay,45,2025-06-30T15:10:00.000-04:00,0,[]
+69609,Cat 4/Novice Men,40,2025-09-28T10:45:00.000-04:00,0,"['men', 'cat_4', 'beginner']"
+69609,Cat 4/Novice Men 40+,40,2025-09-28T10:45:00.000-04:00,1,"['men', 'masters', 'age_40_plus', 'cat_4', 'beginner']"
+69609,Junior Girls Age 13-14,30,2025-09-28T11:35:00.000-04:00,0,"['junior', 'age_13_14']"
+69609,Junior Boys Age 13-14,30,2025-09-28T11:35:00.000-04:00,0,"['junior', 'age_13_14']"
+69609,Junior Girls Age 9-12,30,2025-09-28T11:35:00.000-04:00,0,"['junior', 'age_9_12']"
+69609,Junior Boys Age 9-12,30,2025-09-28T11:35:00.000-04:00,0,"['junior', 'age_9_12']"
+69609,Junior Boys Age 15-18,45,2025-09-28T12:15:00.000-04:00,0,"['junior', 'age_15_18']"
+69609,Cat 3/4 Men,45,2025-09-28T12:15:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+69609,Cat 1/2/3 Men,50,2025-09-28T14:10:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3']"
+69609,Mens Singlespeed,45,2025-09-28T15:10:00.000-04:00,0,[]
+69609,Womens Singlespeed,45,2025-09-28T15:10:00.000-04:00,0,[]
+69847,Open Men,,2025-03-11T23:59:00.000-04:00,102,['men']
+69847,Nonbinary & GNC,,2025-03-11T23:59:00.000-04:00,7,['non_binary']
+69847,Open Women,,2025-03-17T23:59:00.000-04:00,22,['women']
+70026,First Timers 20-34,35,2022-06-15T08:15:00.000-04:00,0,[]
+70026,First Timers 35+,35,2022-06-15T08:15:00.000-04:00,0,['age_35_plus']
+70026,Men Cat 3/4,45,2022-06-15T12:00:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+70026,Men Elite,60,2022-06-15T14:30:00.000-04:00,0,"['men', 'elite']"
+70026,Men Masters 40+,60,2022-06-15T14:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70026,Masters 40+ Cat 4/5,40,2022-06-15T15:30:00.000-04:00,0,"['masters', 'age_40_plus', 'cat_4', 'cat_5']"
+70026,Single Speed,40,2022-06-15T15:30:00.000-04:00,0,[]
+70026,Men U19,40,2022-06-15T15:30:00.000-04:00,0,['men']
+70026,First Timers  10-19,25,2025-03-03T08:15:00.000-05:00,0,[]
+70026,Women Masters 45+,40,2025-03-03T09:00:00.000-05:00,0,"['women', 'masters', 'age_45_plus']"
+70026,Women Cat 4/5,40,2025-03-03T09:00:00.000-05:00,0,"['women', 'cat_4', 'cat_5']"
+70026,U19 Women,40,2025-03-03T09:00:00.000-05:00,0,['women']
+70026,Men Cat 4/5,40,2025-09-20T10:00:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+70026,Masters 50+,40,2025-09-20T11:00:00.000-04:00,0,"['masters', 'age_50_plus']"
+70026,Masters 60+,40,2025-09-20T11:00:00.000-04:00,0,"['masters', 'age_60_plus']"
+70026,Masters 70 +,40,2025-09-20T11:00:00.000-04:00,0,['masters']
+70026,Kids (10 & Under),2-4,2025-09-20T12:15:00.000-04:00,0,[]
+70026,Women Elite Cat 1/2/3,45,2025-09-20T13:00:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3', 'elite']"
+70026,Men U15,20,2025-09-20T14:00:00.000-04:00,0,['men']
+70026,Women U15,20,2025-09-20T14:00:00.000-04:00,0,['women']
+70146,VACX Series Winners / Promoters,,2025-06-19T23:59:00.000-04:00,0,[]
+70146,Volunteers,,2025-09-07T08:00:00.000-04:00,0,[]
+70146,Women's Beginner Racer Mentor Program,,2025-09-07T08:45:00.000-04:00,0,"['women', 'beginner']"
+70146,Men's Beginner Racer Mentor Program,,2025-09-07T08:45:00.000-04:00,0,"['men', 'beginner']"
+70146,Men Masters 60+,30,2025-09-07T09:30:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+70146,Men Cat 4,30,2025-09-07T09:31:00.000-04:00,0,"['men', 'cat_4']"
+70146,Men Cat 5 (Novice),30,2025-09-07T09:32:00.000-04:00,1,"['men', 'cat_5', 'beginner']"
+70146,Women Cat 4/5,30,2025-09-07T10:15:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+70146,Women Masters 40+,30,2025-09-07T10:16:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70146,Juniors 9-14,30,2025-09-07T10:17:00.000-04:00,0,['junior']
+70146,Men Cat 3/4,40,2025-09-07T11:00:00.000-04:00,1,"['men', 'cat_3', 'cat_4']"
+70146,Juniors 15-18,40,2025-09-07T11:01:00.000-04:00,0,['junior']
+70146,Men MTB Open (Not a VACX Series Category),40,2025-09-07T11:02:00.000-04:00,0,['men']
+70146,'Lil Belgians,10,2025-09-07T11:45:00.000-04:00,0,[]
+70146,Men 1/2/3,50,2025-09-07T12:00:00.000-04:00,0,['men']
+70146,Men Masters 40+,50,2025-09-07T12:01:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70146,Women 1/2/3,50,2025-09-07T13:00:00.000-04:00,0,['women']
+70146,Women 3/4,50,2025-09-07T13:01:00.000-04:00,0,['women']
+70146,Women MTB Open (Not a VACX Series Category),50,2025-09-07T13:02:00.000-04:00,0,['women']
+70146,Single Speed Men,40,2025-09-07T14:00:00.000-04:00,0,['men']
+70146,Single Speed Women,40,2025-09-07T14:00:00.000-04:00,0,['women']
+70146,Men Masters 50+,40,2025-09-07T14:01:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70238,UCI Junior Women (17-18) - Sunday,40,2024-10-03T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+70238,UCI Junior Women (17-18) - Saturday,40,2024-10-03T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+70238,UCI Junior Men (17-18) - Saturday,40,2024-10-03T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+70238,UCI Junior Men (17-18) - Sunday,40,2024-10-03T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+70238,Junior Boys (11-12) - Saturday - USCX,30,2025-06-11T07:45:00.000-04:00,0,['junior']
+70238,Junior Boys (11-12) - Sunday - USCX,30,2025-06-11T07:45:00.000-04:00,0,['junior']
+70238,Junior Girls (11-12) - Saturday - USCX,30,2025-06-11T07:46:00.000-04:00,0,['junior']
+70238,Junior Girls (11-12) - Sunday - USCX,30,2025-06-11T07:46:00.000-04:00,0,['junior']
+70238,Junior Boys (9-10) - Saturday - USCX,30,2025-06-11T07:47:00.000-04:00,0,['junior']
+70238,Junior Boys (9-10) - Sunday - USCX,30,2025-06-11T07:47:00.000-04:00,0,['junior']
+70238,Junior Girls (9-10) - Saturday - USCX,30,2025-06-11T07:48:00.000-04:00,0,['junior']
+70238,Junior Girls (9-10) - Sunday - USCX,30,2025-06-11T07:48:00.000-04:00,0,['junior']
+70238,Men Cat 4/5 - Saturday,45,2025-06-11T08:30:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+70238,Men Cat 4/5 - Sunday,45,2025-06-11T08:30:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+70238,Junior Boys (U19) Non-UCI - Saturday - USCX,45,2025-06-11T08:31:00.000-04:00,0,"['junior', 'pro']"
+70238,Junior Boys (U19) Non UCI - Sunday - USCX,45,2025-06-11T08:31:00.000-04:00,0,"['junior', 'pro']"
+70238,Masters Men (35+) Cat 1/2/3 - Friday,45,2025-06-11T09:00:00.000-04:00,0,"['men', 'masters', 'age_35_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Men (45+) Cat 1/2/3 - Friday,45,2025-06-11T09:00:00.000-04:00,0,"['men', 'masters', 'age_45_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Men (55+) Cat 1/2/3 - Friday,45,2025-06-11T09:00:00.000-04:00,0,"['men', 'masters', 'age_55_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Men (35+) Cat 4/Novice - Friday,45,2025-06-11T09:01:00.000-04:00,0,"['men', 'masters', 'age_35_plus', 'cat_4', 'beginner']"
+70238,Masters Men (45+) Cat 4/Novice - Friday,45,2025-06-11T09:01:00.000-04:00,0,"['men', 'masters', 'age_45_plus', 'cat_4', 'beginner']"
+70238,Masters Men (55+) Cat 4/Novice - Friday,45,2025-06-11T09:01:00.000-04:00,0,"['men', 'masters', 'age_55_plus', 'cat_4', 'beginner']"
+70238,Masters Women (40+) - Saturday - USCX,45,2025-06-11T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70238,Masters Women (40+) - Sunday - USCX,45,2025-06-11T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70238,Masters Women (50+) - Saturday - USCX,45,2025-06-11T09:31:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+70238,Masters Women (50+) - Sunday - USCX,45,2025-06-11T09:31:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+70238,Masters Women (60+) - Saturday - USCX,45,2025-06-11T09:32:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+70238,Masters Women (60+) - Sunday - USCX,45,2025-06-11T09:32:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+70238,Masters Women (70+) - Saturday - USCX,45,2025-06-11T09:33:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+70238,Masters Women (70+) - Sunday - USCX,45,2025-06-11T09:33:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+70238,Women Cat 4/5 - Saturday,45,2025-06-11T09:34:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+70238,Women Cat 4/5 - Sunday,45,2025-06-11T09:34:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+70238,Junior Girls (13-14) - Saturday - USCX,45,2025-06-11T09:35:00.000-04:00,0,['junior']
+70238,Junior Girls (13-14) - Sunday - USCX,45,2025-06-11T09:35:00.000-04:00,0,['junior']
+70238,Men Single Speed Cat 1/2/3 - Friday,45,2025-06-11T10:00:00.000-04:00,1,"['men', 'cat_1', 'cat_2', 'cat_3']"
+70238,Men Single Speed Cat 4/Novice - Friday,45,2025-06-11T10:00:00.000-04:00,1,"['men', 'cat_4', 'beginner']"
+70238,Women Single Speed Cat 1/2/3 - Friday,45,2025-06-11T10:01:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+70238,Women Single Speed Cat 4/Novice - Friday,45,2025-06-11T10:01:00.000-04:00,0,"['women', 'cat_4', 'beginner']"
+70238,Masters Men (40+) - Saturday - USCX,45,2025-06-11T10:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70238,Masters Men (40+) - Sunday - USCX,45,2025-06-11T10:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70238,Masters Men (50+) - Saturday - USCX,45,2025-06-11T10:31:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70238,Masters Men (50+) - Sunday - USCX,45,2025-06-11T10:31:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70238,Masters Men (60+) - Saturday - USCX,45,2025-06-11T10:32:00.000-04:00,1,"['men', 'masters', 'age_60_plus']"
+70238,Masters Men (60+) - Sunday - USCX,45,2025-06-11T10:32:00.000-04:00,1,"['men', 'masters', 'age_60_plus']"
+70238,Masters Men (70+) - Saturday - USCX,45,2025-06-11T10:33:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+70238,Masters Men (70+) - Sunday - USCX,45,2025-06-11T10:33:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+70238,Junior Boys (13-14) - Friday,30,2025-06-11T11:00:00.000-04:00,0,['junior']
+70238,Junior Girls (13-14) - Friday,30,2025-06-11T11:00:00.000-04:00,0,['junior']
+70238,Junior Boys (11-12) - Friday,30,2025-06-11T11:01:00.000-04:00,0,['junior']
+70238,Junior Girls (11-12) - Friday,30,2025-06-11T11:01:00.000-04:00,0,['junior']
+70238,Junior Boys (9-10) - Friday,30,2025-06-11T11:02:00.000-04:00,0,['junior']
+70238,Junior Girls (9-10) - Friday,30,2025-06-11T11:02:00.000-04:00,0,['junior']
+70238,Masters Men (40+) Cat 3/4/5 - Saturday,45,2025-06-11T11:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+70238,Masters Men (40+) Cat 3/4/5 - Sunday,45,2025-06-11T11:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+70238,Junior Boys (13-14) - Saturday - USCX,45,2025-06-11T11:31:00.000-04:00,0,['junior']
+70238,Junior Boys (13-14) - Sunday - USCX,45,2025-06-11T11:31:00.000-04:00,0,['junior']
+70238,Junior Girls (17-18) - Friday,45,2025-06-11T11:45:00.000-04:00,0,['junior']
+70238,Junior Girls (15-16) - Friday,45,2025-06-11T11:46:00.000-04:00,0,['junior']
+70238,Junior Boys (17-18) - Friday,45,2025-06-11T12:45:00.000-04:00,0,['junior']
+70238,Junior Boys (15-16) - Friday,45,2025-06-11T12:46:00.000-04:00,0,['junior']
+70238,Women Cat 2 - Saturday,45,2025-06-11T12:51:00.000-04:00,0,"['women', 'cat_2']"
+70238,Women Cat 2 - Sunday,45,2025-06-11T12:51:00.000-04:00,0,"['women', 'cat_2']"
+70238,Women Cat 3 - Saturday - USCX,45,2025-06-11T12:52:00.000-04:00,0,"['women', 'cat_3']"
+70238,Women Cat 3 - Sunday - USCX,45,2025-06-11T12:52:00.000-04:00,0,"['women', 'cat_3']"
+70238,Women Single Speed - Saturday - USCX,45,2025-06-11T12:53:00.000-04:00,0,['women']
+70238,Women Single Speed - Sunday - USCX,45,2025-06-11T12:53:00.000-04:00,0,['women']
+70238,Junior Girls (U19) Non UCI - Sunday - USCX,45,2025-06-11T12:54:00.000-04:00,0,"['junior', 'pro']"
+70238,Junior Girls (U19) Non UCI - Saturday - USCX,45,2025-06-11T12:54:00.000-04:00,0,"['junior', 'pro']"
+70238,Women Cat 1/2/3 - Friday,45,2025-06-11T13:45:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+70238,Women Cat 4/Novice - Friday,45,2025-06-11T13:46:00.000-04:00,0,"['women', 'cat_4', 'beginner']"
+70238,Men Cat 2 - Saturday,45,2025-06-11T13:51:00.000-04:00,0,"['men', 'cat_2']"
+70238,Men Cat 2 - Sunday,45,2025-06-11T13:51:00.000-04:00,0,"['men', 'cat_2']"
+70238,Men Cat 3 - Saturday - USCX,45,2025-06-11T13:52:00.000-04:00,0,"['men', 'cat_3']"
+70238,Men Cat 3 - Sunday - USCX,45,2025-06-11T13:52:00.000-04:00,0,"['men', 'cat_3']"
+70238,Men Single Speed - Saturday - USCX,45,2025-06-11T13:53:00.000-04:00,1,['men']
+70238,Men Single Speed - Sunday - USCX,45,2025-06-11T13:53:00.000-04:00,1,['men']
+70238,Elite Women (UCI C2) - Sunday,50,2025-06-11T14:45:00.000-04:00,0,"['women', 'elite', 'pro']"
+70238,Men Cat 1/2/3 - Friday,45,2025-06-11T14:45:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3']"
+70238,Elite Women (UCI C1) - Saturday,50,2025-06-11T14:55:00.000-04:00,0,"['women', 'elite', 'pro']"
+70238,Masters Women (35+) Cat 1/2/3 - Friday,45,2025-06-11T15:45:00.000-04:00,0,"['women', 'masters', 'age_35_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Women (45+) Cat 1/2/3 - Friday,45,2025-06-11T15:45:00.000-04:00,0,"['women', 'masters', 'age_45_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Women (55+) Cat 1/2/3 - Friday,45,2025-06-11T15:45:00.000-04:00,0,"['women', 'masters', 'age_55_plus', 'cat_1', 'cat_2', 'cat_3']"
+70238,Masters Women (35+) Cat 4/Novice - Friday,45,2025-06-11T15:46:00.000-04:00,0,"['women', 'masters', 'age_35_plus', 'cat_4', 'beginner']"
+70238,Masters Women (45+) Cat 4/Novice - Friday,45,2025-06-11T15:46:00.000-04:00,0,"['women', 'masters', 'age_45_plus', 'cat_4', 'beginner']"
+70238,Masters Women (55+) Cat 4/Novice - Friday,45,2025-06-11T15:46:00.000-04:00,0,"['women', 'masters', 'age_55_plus', 'cat_4', 'beginner']"
+70238,Elite Men/Open (UCI C2) - Sunday,60,2025-06-11T16:05:00.000-04:00,0,"['men', 'elite', 'pro']"
+70238,Elite Men/Open (UCI C1) - Saturday,60,2025-06-11T16:05:00.000-04:00,0,"['men', 'elite', 'pro']"
+70238,Men Cat 4/Novice - Friday,45,2025-06-11T16:30:00.000-04:00,1,"['men', 'cat_4', 'beginner']"
+70238,Fun Race - Saturday,30,2025-10-03T17:30:00.000-04:00,0,[]
+70238,Junior Girls Pro Clinic - Friday,1.5,2025-10-03T17:30:00.000-04:00,1,"['junior', 'pro']"
+70240,Cat 4 Men,45,2024-09-21T08:00:00.000-04:00,0,"['men', 'cat_4']"
+70240,Cat 5 Men,45,2024-09-21T08:00:00.000-04:00,0,"['men', 'cat_5']"
+70240,40 + Men Cat 4,45,2024-09-21T09:00:00.000-04:00,0,"['men', 'masters', 'cat_4']"
+70240,50+ Men Cat 4,45,2024-09-21T09:00:00.000-04:00,0,"['men', 'masters', 'age_50_plus', 'cat_4']"
+70240,SM 3,45,2024-09-21T10:00:00.000-04:00,0,[]
+70240,Men 40+ Cat 3,45,2024-09-21T10:00:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3']"
+70240,Men 50+ Cat 3,45,2024-09-21T10:01:00.000-04:00,0,"['men', 'masters', 'age_50_plus', 'cat_3']"
+70240,Men 50+,45,2024-09-21T11:00:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70240,Men 60+,45,2024-09-21T11:00:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+70240,SW Open,45,2024-09-21T12:00:00.000-04:00,0,['mixed']
+70240,Women  40+ / 50+,45,2024-09-21T12:00:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70240,SS Women,45,2024-09-21T12:01:00.000-04:00,0,['women']
+70240,Women 3/4/5,45,2025-03-14T12:01:00.000-04:00,0,['women']
+70240,Jr Men 9-10,20,2025-03-14T13:20:00.000-04:00,0,['men']
+70240,Jr. Women 9-10,20,2025-03-14T13:20:00.000-04:00,0,['women']
+70240,Jr. Men 11-12,20,2025-03-14T13:21:00.000-04:00,0,['men']
+70240,Jr. Women 11-12,20,2025-03-14T13:21:00.000-04:00,0,['women']
+70240,Men Open,55,2025-03-14T14:51:00.000-04:00,0,['men']
+70240,SS Men,55,2025-03-14T14:51:00.000-04:00,0,['men']
+70240,Men Open 40+,55,2025-03-14T14:52:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70240,Jr. Men 15-18,40,2025-09-07T13:55:00.000-04:00,0,['men']
+70240,Jr. Wm. 15-18,40,2025-09-07T13:55:00.000-04:00,0,[]
+70240,Jr. Men 13-14,40,2025-09-07T13:56:00.000-04:00,0,['men']
+70240,Jr. Wm. 13-14,40,2025-09-07T13:56:00.000-04:00,0,[]
+70352,Overnight Parking - Saturday Night,,2025-04-02T23:59:00.000-04:00,9,[]
+70352,The 111 - Men,111,2025-08-30T08:00:00.000-04:00,12,['men']
+70352,The 111 - Women,111,2025-08-30T08:00:00.000-04:00,2,['women']
+70352,The Sixty-Niner - Men,69,2025-08-30T08:00:00.000-04:00,24,['men']
+70352,The Sixty-Niner - Women,69,2025-08-30T08:00:00.000-04:00,3,['women']
+70352,The Fifty - Men,50,2025-08-30T08:00:00.000-04:00,11,['men']
+70352,The Fifty - Women,50,2025-08-30T08:00:00.000-04:00,4,['women']
+70352,The Fifty - Non-Binary/Gender Non-Conforming,50,2025-08-30T08:00:00.000-04:00,0,['non_binary']
+70352,The Sixty-Niner - Non-Binary/Gender Non-Conforming,69,2025-08-30T08:00:00.000-04:00,0,['non_binary']
+70352,The 111 - Non-Binary/Gender Non-Conforming,111,2025-08-30T08:00:00.000-04:00,0,['non_binary']
+70352,Cyclocross Clinic,,2025-08-30T10:00:00.000-04:00,2,[]
+70352,Men's - Cat 4/Novice,,2025-08-30T12:00:00.000-04:00,0,"['men', 'cat_4', 'beginner']"
+70352,Women's Cat 4/Novice/Transgender/GNC,,2025-08-30T12:45:00.000-04:00,1,"['women', 'cat_4', 'beginner']"
+70352,Junior - Age 9-18/All Genders (See Description),,2025-08-30T13:30:00.000-04:00,0,"['junior', 'age_9_18']"
+70352,Single Speed/Masters - Open Men,,2025-08-30T14:15:00.000-04:00,1,"['men', 'masters']"
+70352,Single Speed/Masters - Women's/Transgender/GNC,,2025-08-30T15:15:00.000-04:00,0,"['women', 'masters']"
+70352,Men's 1/2/3,,2025-08-30T16:15:00.000-04:00,0,['men']
+70352,Women's 1/2/3 - Transgender/GNC,,2025-08-30T17:30:00.000-04:00,0,['women']
+70352,Open - Evening Party Race,,2025-08-30T19:00:00.000-04:00,1,['mixed']
+70352,The 222 - Men,222,2025-08-30T21:00:00.000-04:00,3,['men']
+70352,The 222 - Women,222,2025-08-30T21:00:00.000-04:00,1,['women']
+70352,The 222 - Non-Binary/Gender Non-Conforming,222,2025-08-30T21:00:00.000-04:00,0,['non_binary']
+70413,Little Dinosaurs,24,2018-10-03T11:45:00.000-04:00,0,[]
+70413,U15 Men,20,2018-10-03T13:00:00.000-04:00,0,['men']
+70413,Single Speed,30,2023-10-14T15:35:00.000-04:00,0,[]
+70413,Tandem CX Race,30,2023-10-14T15:35:00.000-04:00,0,[]
+70413,Cat 4/5 Men (C Men),40,2024-10-05T09:00:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+70413,Men Masters 50+ (Cat 1/2/3/4),45,2024-10-05T10:00:00.000-04:00,0,"['men', 'masters', 'age_50_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+70413,Master Men 60+ (Cat 1/2/3/4),45,2024-10-05T10:00:00.000-04:00,0,"['men', 'masters', 'age_60_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+70413,Master Men 70+ (Cat 1/2/3/4),45,2024-10-05T10:00:00.000-04:00,0,"['men', 'masters', 'age_70_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+70413,U19 Women P/B Befitting Bicycles,40,2024-10-05T11:00:00.000-04:00,0,['women']
+70413,Women Master 45+,40,2024-10-05T11:00:00.000-04:00,0,"['women', 'masters', 'age_45_plus']"
+70413,Cat 4/5 Women,40,2024-10-05T11:00:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+70413,Cat 3/4 Men (B Men),45,2024-10-05T12:00:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+70413,U15 Women,20,2024-10-05T13:00:00.000-04:00,0,['women']
+70413,Women Cat. 1/2/3 (Elite Women),45,2024-10-05T13:30:00.000-04:00,0,"['women', 'elite']"
+70413,Men Cat 1/2/3 (Elite Men),60,2024-10-05T14:30:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3', 'elite']"
+70413,Mens Masters 40+ (Cat. 1/2/3/4 ),60,2024-10-05T14:30:00.000-04:00,0,"['masters', 'age_40_plus']"
+70413,U19 Men,40,2024-10-05T15:35:00.000-04:00,0,['men']
+70413,Master Men 40+ 4/5,40,2024-10-05T15:35:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70482,CXpreX,,2025-08-17T17:00:00.000-04:00,1,[]
+70492,Registration & Check-in Volunteers 8:30am to 11:30am,,2025-09-27T08:30:00.000-04:00,0,[]
+70492,A OPEN,50,2025-09-27T10:00:00.000-04:00,3,['mixed']
+70492,A OPEN 50+,50,2025-09-27T10:01:00.000-04:00,4,"['mixed', 'masters', 'age_50_plus']"
+70492,A WOMEN,50,2025-09-27T10:02:00.000-04:00,1,['women']
+70492,B OPEN,40,2025-09-27T11:20:00.000-04:00,10,['mixed']
+70492,B OPEN 50+,40,2025-09-27T11:21:00.000-04:00,5,"['mixed', 'masters', 'age_50_plus']"
+70492,B WOMEN,40,2025-09-27T11:22:00.000-04:00,2,['women']
+70492,Course Set Up Volunteers,2-4,2025-09-27T12:00:00.000-04:00,0,[]
+70492,JUNIOR BOYS 15-18,40,2025-09-27T12:40:00.000-04:00,1,['junior']
+70492,SINGLE SPEED OPEN,40,2025-09-27T12:41:00.000-04:00,5,['mixed']
+70492,SINGLE SPEED WOMEN,40,2025-09-27T12:42:00.000-04:00,0,['women']
+70492,JUNIOR GIRLS 15-18,40,2025-09-27T12:43:00.000-04:00,0,['junior']
+70492,"NO REG REQUIRED FOR COURSE INSPECTION, BUT ONLY AVAILABLE FOR RIDERS REGISTERED FOR AN EVENT RACE",15,2025-09-27T13:20:00.000-04:00,0,[]
+70492,C OPEN,30,2025-09-27T13:50:00.000-04:00,6,['mixed']
+70492,JUNIOR BOYS 9-14,30,2025-09-27T13:51:00.000-04:00,2,['junior']
+70492,C WOMEN,30,2025-09-27T13:52:00.000-04:00,3,['women']
+70492,JUNIOR GIRLS 9-14,30,2025-09-27T13:53:00.000-04:00,0,['junior']
+70492,Kids Race (8 & under),2,2025-09-27T14:40:00.000-04:00,4,[]
+70500,EAT/DRINK & BE HAPPY  (purchase day of  your all inclusive wristband for food and drink)Price TBD,,2025-09-06T07:00:00.000-04:00,0,[]
+70500,Team Tent spot,,2025-09-06T08:00:00.000-04:00,0,[]
+70500,9am Pre-Ride/ Skills clinic (Hosted by Salty Women),1,2025-09-06T09:00:00.000-04:00,0,['women']
+70500,Juniors 9-11 /  12-14 / 15-18 Boys  and  Girls,30,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10am Junior Boys 9-11,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10am Junior Girls 9-11,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10 am Junior Boys 12-14,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10 am Junior Girls 12-14,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10 am Junior Boys 15-18,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10 am Junior Girls 15-18,2,2025-09-06T10:00:00.000-04:00,0,['junior']
+70500,10:35 am Women 3/4 and Collegiate  Women B,40,2025-09-06T10:35:00.000-04:00,0,['women']
+70500,10:35 am Women Master 40+,40,2025-09-06T10:35:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70500,10:35 am Women Master 50+,40,2025-09-06T10:35:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+70500,11:20 am Kids course,,2025-09-06T11:20:00.000-04:00,0,[]
+70500,11:30 am Men  4/5 and Collegiate Men C/D,35,2025-09-06T11:30:00.000-04:00,1,['men']
+70500,12:20pm NESCX SingleSpeed series  Opener!!! MEN,40,2025-09-06T12:20:00.000-04:00,0,['men']
+70500,12:20pm NESCX SingleSpeed series  Opener!!! Women,40,2025-09-06T12:20:00.000-04:00,0,['women']
+70500,12:20pm Woman 4/5  and Collegiate Women  C/D,35,2025-09-06T12:30:00.000-04:00,0,['women']
+70500,1:10pm Kids course,,2025-09-06T13:10:00.000-04:00,0,[]
+70500,1:25pm Men Masters 40+,40,2025-09-06T13:25:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70500,1:25pm Men Masters 50+,40,2025-09-06T13:25:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70500,1:25pm Men Masters 60+,40,2025-09-06T13:25:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+70500,Camping Friday and or Saturday night,1,2025-09-06T14:00:00.000-04:00,0,[]
+70500,"2:20pm Women 1,2,3 and Collegiate Women A/B (1,2,3 Cash payouts P/B: PVC)",50,2025-09-06T14:20:00.000-04:00,0,['women']
+70500,3:20pm Kids Course,,2025-09-06T15:20:00.000-04:00,0,[]
+70500,"3:30pm Men 1,2,3 and Collegiate Men A (1,2,3 cash Payout P/B: PVC)",50,2025-09-06T15:30:00.000-04:00,0,['men']
+70500,3:30pm Men 3/4 and Collegiate Men B,50,2025-09-06T15:30:00.000-04:00,0,['men']
+70521,12-Week 'Cross Camp Training Program,,2025-06-13T23:59:00.000-04:00,2,[]
+70521,Saturday/Sunday Skills Camp - All Ages,,2025-06-13T23:59:00.000-04:00,22,[]
+70521,Monday/Tuesday Training Camp,,2025-06-13T23:59:00.000-04:00,8,[]
+70521,Saturday/Sunday Skills Camp - Under 15 Years Old,,2025-06-13T23:59:00.000-04:00,7,[]
+70521,Saturday/Sunday Skills Camp - All Ages Waitlist,,2025-06-13T23:59:00.000-04:00,0,[]
+70521,Monday/Tuesday Training Camp Waitlist,,2025-06-13T23:59:00.000-04:00,0,[]
+70521,Saturday/Sunday Skills Camp - Under 15 Years Old Waitlist,,2025-06-13T23:59:00.000-04:00,0,[]
+70704,Men Cat 5/ Novice,30,2024-08-25T08:00:00.000-04:00,0,"['men', 'cat_5', 'beginner']"
+70704,Women Cat 5/ Novice,30,2024-08-25T08:01:00.000-04:00,0,"['women', 'cat_5', 'beginner']"
+70704,Men Cat 4/5,45,2024-08-25T09:00:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+70704,Masters Men 40+ (Cat 1-4),45,2024-08-25T10:00:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_1']"
+70704,Masters Men 50+ (Cat 1-4),45,2024-08-25T11:00:00.000-04:00,1,"['men', 'masters', 'age_50_plus', 'cat_1']"
+70704,Masters Men 60+ (Cat 1-4),45,2024-08-25T11:01:00.000-04:00,0,"['men', 'masters', 'age_60_plus', 'cat_1']"
+70704,Kids Race U9,1,2024-08-25T12:00:00.000-04:00,0,[]
+70704,Junior Boys 15-18,30,2024-08-25T12:15:00.000-04:00,0,['junior']
+70704,Junior Boys 13-14,30,2024-08-25T12:15:00.000-04:00,0,['junior']
+70704,Junior Boys 9-12,30,2024-08-25T12:15:00.000-04:00,0,['junior']
+70704,Junior Girls 13-14,30,2024-08-25T12:16:00.000-04:00,0,['junior']
+70704,Junior Girls 15-18,30,2024-08-25T12:16:00.000-04:00,0,['junior']
+70704,Junior Girls 9-12,30,2024-08-25T12:16:00.000-04:00,0,['junior']
+70704,Men Cat 3/4,45,2024-08-25T13:00:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+70704,Women Elite 1/2/3,50,2024-08-25T14:00:00.000-04:00,0,"['women', 'elite']"
+70704,Woman 3/4,45,2024-08-25T14:01:00.000-04:00,0,[]
+70704,"Women's Masters (Cats 1-4) 40+, 50+, 60+",45,2024-08-25T14:01:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70704,Womens 4/5,45,2024-08-25T14:02:00.000-04:00,0,[]
+70704,Elite Men 1/2/3,50,2024-08-25T15:00:00.000-04:00,0,"['men', 'elite']"
+70705,June Season Pass,,2025-06-04T17:00:00.000-04:00,1,[]
+70705,August Season Pass,,2025-06-04T17:00:00.000-04:00,0,[]
+70705,Full Year Season Pass,,2025-06-04T17:00:00.000-04:00,4,[]
+70705,C Field,20,2025-06-04T17:30:00.000-04:00,0,[]
+70705,C Field 6/18,20,2025-06-04T17:30:00.000-04:00,0,[]
+70705,B Race 8/13- Cyclocross,30,2025-06-04T18:00:00.000-04:00,0,[]
+70705,B Race 8/20 Cyclocross,30,2025-06-04T18:00:00.000-04:00,0,[]
+70705,B race 6/4,20,2025-06-04T18:15:00.000-04:00,1,[]
+70705,B race 6/11,20,2025-06-04T18:15:00.000-04:00,0,[]
+70705,B Race 6/18,20,2025-06-04T18:15:00.000-04:00,4,[]
+70705,B race 8/6- Cyclocross,30,2025-06-04T18:15:00.000-04:00,0,[]
+70705,A Race 8/13 Cyclocross,40,2025-06-04T18:45:00.000-04:00,0,[]
+70705,A Race 8/20 Cyclocross,40,2025-06-04T18:45:00.000-04:00,0,[]
+70705,A Race 6/4,20,2025-06-04T19:00:00.000-04:00,1,[]
+70705,A Race 6/11,20,2025-06-04T19:00:00.000-04:00,0,[]
+70705,A Race 6/18,20,2025-06-04T19:00:00.000-04:00,0,[]
+70705,A Race 8/6- Cyclocross,40,2025-06-04T19:00:00.000-04:00,0,[]
+70728,Masters 4/5 - Open/Men - 35+,30,2024-09-14T09:00:00.000-04:00,0,"['men', 'masters', 'age_35_plus']"
+70728,Masters 4/5 - Open/Men - 50+,30,2024-09-14T09:01:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70728,Masters 1/2/3/4/5 - Women - 35+,30,2024-09-14T09:45:00.000-04:00,0,"['women', 'masters', 'age_35_plus']"
+70728,Cat 4/5 - Women - All Ages,30,2024-09-14T09:46:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+70728,Cat 1/2/3/4/5 - Non-binary - All Ages,30,2024-09-14T09:47:00.000-04:00,0,"['non_binary', 'cat_1', 'cat_2', 'cat_3', 'cat_4', 'cat_5']"
+70728,Cat 4 - Open/Men - All Ages,30,2024-09-14T10:30:00.000-04:00,0,"['men', 'cat_4']"
+70728,Cat 5 - Open/Men - All Ages,30,2024-09-14T10:31:00.000-04:00,0,"['men', 'cat_5']"
+70728,Junior - Open/Boys - 15-18,30,2024-09-14T11:15:00.000-04:00,0,"['mixed', 'junior']"
+70728,Junior - Girls - 15-18,30,2024-09-14T11:15:00.000-04:00,0,['junior']
+70728,Junior Non-Binary - 15-18,30,2024-09-14T11:15:00.000-04:00,0,"['non_binary', 'junior']"
+70728,Junior - Open/Boys 9-14,30,2024-09-14T11:16:00.000-04:00,0,"['mixed', 'junior']"
+70728,Junior - Girls - 9-14,30,2024-09-14T11:16:00.000-04:00,0,['junior']
+70728,Junior Non-Binary - 9-14,30,2024-09-14T11:16:00.000-04:00,0,"['non_binary', 'junior']"
+70728,Course Inspection,30,2024-09-14T11:45:00.000-04:00,0,[]
+70728,Cat 1/2 - Women - All Ages,45,2024-09-14T12:15:00.000-04:00,0,"['women', 'cat_1', 'cat_2']"
+70728,Cat 3/4 - Women - All Ages,45,2024-09-14T12:16:00.000-04:00,0,"['women', 'cat_3', 'cat_4']"
+70728,Single Speed 1/2/3 - Open - All Ages,45,2024-09-14T13:15:00.000-04:00,0,['mixed']
+70728,Masters 1/2/3 - Open/Men - 50+,45,2024-09-14T13:16:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70728,Cat 1/2/3 - Open/Men - All Ages,55,2024-09-14T14:15:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3']"
+70728,Cat 1/2/3 - Open Men - 35+,55,2024-09-14T14:16:00.000-04:00,0,"['men', 'age_35_plus', 'cat_1', 'cat_2', 'cat_3']"
+70728,Cat 3/4 - Open/Men - All Ages,45,2024-09-14T15:25:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+70728,Single Speed 4/5 - Open - All Ages,45,2024-09-14T15:26:00.000-04:00,0,['mixed']
+70855,CCAP Junior Practice,30,2024-08-28T17:00:00.000-04:00,0,['junior']
+70855,CCAP Junior Race,30,2024-08-28T17:35:00.000-04:00,0,['junior']
+70855,CCAP Junior Race Waitlist,30,2024-08-28T17:35:00.000-04:00,0,['junior']
+70855,Open Training Race,45,2024-08-28T18:15:00.000-04:00,0,['mixed']
+70855,Training Race for CCAP Coaches and Volunteers,45,2024-08-28T18:15:00.000-04:00,0,[]
+70855,Open Training Race Waitlist,45,2024-08-28T18:15:00.000-04:00,0,['mixed']
+70855,Junior Race Season Pass,,2025-04-24T23:59:00.000-04:00,0,['junior']
+70855,Open Race Season Pass,,2025-04-24T23:59:00.000-04:00,0,['mixed']
+70855,CCAP Registered Rider Sign Up (Open Race AND Junior Practice),,2025-04-24T23:59:00.000-04:00,0,"['mixed', 'junior']"
+70855,CCAP Registered Rider Sign Up (Junior Race AND Junior Practice),,2025-04-24T23:59:00.000-04:00,0,['junior']
+70856,CCAP Junior Practice,30,2024-09-04T17:00:00.000-04:00,0,['junior']
+70856,CCAP Junior Race,30,2024-09-04T17:35:00.000-04:00,0,['junior']
+70856,CCAP Junior Race Waitlist,30,2024-09-04T17:35:00.000-04:00,0,['junior']
+70856,Open Training Race,45,2024-09-04T18:15:00.000-04:00,0,['mixed']
+70856,Training Race for CCAP Coaches and Volunteers,45,2024-09-04T18:15:00.000-04:00,0,[]
+70856,Open Training Race Waitlist,45,2024-09-04T18:15:00.000-04:00,0,['mixed']
+70857,CCAP Junior Race,30,2024-09-18T17:15:00.000-04:00,0,['junior']
+70857,CCAP Junior Race Waitlist,30,2024-09-18T17:15:00.000-04:00,0,['junior']
+70857,Open Training Race,45,2024-09-18T17:55:00.000-04:00,0,['mixed']
+70857,Training Race for CCAP Coaches and Volunteers,45,2024-09-18T17:55:00.000-04:00,0,[]
+70857,Open Training Race Waitlist,45,2024-09-18T17:55:00.000-04:00,0,['mixed']
+70858,CCAP Junior Race,30,2024-09-25T17:15:00.000-04:00,0,['junior']
+70858,CCAP Junior Race Waitlist,30,2024-09-25T17:15:00.000-04:00,0,['junior']
+70858,Open Training Race,45,2024-09-25T17:45:00.000-04:00,0,['mixed']
+70858,Training Race for CCAP Coaches and Volunteers,45,2024-09-25T17:45:00.000-04:00,0,[]
+70858,Open Training Race Waitlist,45,2024-09-25T17:45:00.000-04:00,0,['mixed']
+70943,VACX BAR Winners/Promoters,,2024-07-30T23:59:00.000-04:00,0,[]
+70943,Women's Beginner Racer Mentor Program,,2024-10-05T08:45:00.000-04:00,0,"['women', 'beginner']"
+70943,Men's Beginner Racer Mentor Program,,2024-10-05T08:45:00.000-04:00,0,"['men', 'beginner']"
+70943,Men Masters 60+,30,2024-10-05T09:30:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+70943,Men Cat 4,30,2024-10-05T09:31:00.000-04:00,0,"['men', 'cat_4']"
+70943,Men Cat 5 (Novice),30,2024-10-05T09:32:00.000-04:00,0,"['men', 'cat_5', 'beginner']"
+70943,Women Cat 1/2/3,50,2024-10-05T13:00:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+70943,Women Cat 3/4,50,2024-10-05T13:01:00.000-04:00,0,"['women', 'cat_3', 'cat_4']"
+70943,Women Cat 4/5 (Novice),30,2025-09-20T10:15:00.000-04:00,0,"['women', 'cat_4', 'cat_5', 'beginner']"
+70943,Women Masters 40+,30,2025-09-20T10:16:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+70943,Juniors 9-14,30,2025-09-20T10:17:00.000-04:00,0,['junior']
+70943,Men Cat 3/4,40,2025-09-20T11:00:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+70943,Juniors 15-18,40,2025-09-20T11:01:00.000-04:00,0,['junior']
+70943,Lil' Belgians Kid's Race (2-8 years old),10,2025-09-20T11:45:00.000-04:00,0,[]
+70943,Men Cat 1/2/3,50,2025-09-20T12:00:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3']"
+70943,Men Masters 40+,50,2025-09-20T12:01:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70943,Single Speed Men,40,2025-09-20T14:00:00.000-04:00,0,['men']
+70943,Single Speed Women,40,2025-09-20T14:00:00.000-04:00,0,['women']
+70943,Men Masters 50+,40,2025-09-20T14:01:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+70956,Preferred parking,,2022-08-25T07:00:00.000-04:00,0,[]
+70956,Junior Girls 9-12,20,2022-08-25T09:00:00.000-04:00,0,['junior']
+70956,Junior Boys 9-12,20,2022-08-25T09:00:00.000-04:00,0,['junior']
+70956,Junior Boys 13-14,20,2022-08-25T09:02:00.000-04:00,0,['junior']
+70956,Junior Girls 13-14,20,2022-08-25T09:02:00.000-04:00,0,['junior']
+70956,Men Cat 4,45,2022-08-25T09:32:00.000-04:00,0,"['men', 'cat_4']"
+70956,Junior Men 15-18,45,2022-08-25T09:34:00.000-04:00,0,"['men', 'junior']"
+70956,Women 3/4/5,40,2022-08-25T10:35:00.000-04:00,0,['women']
+70956,Women 45+,40,2022-08-25T10:36:00.000-04:00,0,"['women', 'masters', 'age_45_plus']"
+70956,Jr Women 15-18,40,2022-08-25T10:37:00.000-04:00,0,['women']
+70956,Masters 50+ 1/2/3/4,45,2022-08-25T11:30:00.000-04:00,0,"['masters', 'age_50_plus']"
+70956,Men Cat 3,45,2022-08-25T11:32:00.000-04:00,0,"['men', 'cat_3']"
+70956,Kids Race - 8 and under,Fun,2022-08-25T12:30:00.000-04:00,0,[]
+70956,Masters Men Cat 4/5 40+,40,2022-08-25T13:00:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_4']"
+70956,Men 60+ 1/2/3/4,40,2022-08-25T13:02:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+70956,Elite Men P/1/2/3,60,2022-08-25T14:00:00.000-04:00,0,"['men', 'elite']"
+70956,Men Cat 5,40,2022-08-25T15:15:00.000-04:00,0,"['men', 'cat_5']"
+70956,Men Masters 40+  1/2/3/4,45,2022-08-30T09:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+70956,Elite Women P/1/2/3,60,2023-08-24T23:59:00.000-04:00,0,"['women', 'elite']"
+70956,Team Tent Space,,2023-09-10T07:00:00.000-04:00,0,[]
+71020,Fat Tire Division-,40,2024-10-13T00:50:00.000-04:00,0,[]
+71020,Open Men,50,2024-10-13T10:00:00.000-04:00,0,['men']
+71020,Open Women,50,2024-10-13T10:01:00.000-04:00,0,['women']
+71020,Cat 3/4 Men,50,2024-10-13T10:02:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+71020,Masters Men 60+,45,2024-10-13T11:05:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71020,Masters men 40+,45,2024-10-13T11:05:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71020,Masters men 50+,45,2024-10-13T11:05:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71020,"Women 1,2,3,4,5- any category",45,2024-10-13T11:06:00.000-04:00,0,['women']
+71020,Juniors (15-18),45,2024-10-13T11:07:00.000-04:00,0,['junior']
+71020,Juniors 9-14 (Girls & Boys),30,2024-10-13T12:05:00.000-04:00,0,['junior']
+71020,Kids ride: ages 3-9,15-20,2024-10-13T12:10:00.000-04:00,0,"['junior', 'age_3_9']"
+71020,CAT 3/4 Men II,40,2024-10-13T12:45:00.000-04:00,0,"['men', 'cat_3', 'cat_4']"
+71020,Single Speed Men & Women,40,2024-10-13T12:46:00.000-04:00,1,['men']
+71020,Novice/Citizens Men (good for mountain bikers and Novice),40,2024-10-13T12:47:00.000-04:00,0,"['men', 'beginner']"
+71020,Novice/Citizen Women (good for mountain bikers and Novice),40,2024-10-13T12:48:00.000-04:00,0,"['women', 'beginner']"
+71084,Beginners Clinic,,2025-08-09T09:00:00.000-04:00,13,['beginner']
+71084,Experienced Clinic,,2025-08-09T09:00:00.000-04:00,6,[]
+71084,Beginners Clinic Waitlist,,2025-08-09T09:00:00.000-04:00,0,['beginner']
+71084,Experienced Clinic Waitlist,,2025-08-09T09:00:00.000-04:00,0,[]
+71320,Boys Ages 8 & Under,1,2024-07-09T18:00:00.000-04:00,3,['junior']
+71320,Girls Ages 8 & Under,1,2024-07-09T18:00:00.000-04:00,0,['junior']
+71320,Boys Ages 9 - 12,2,2024-07-09T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71320,Girls Ages 9 - 12,2,2024-07-09T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71320,Junior Boys Ages 13 - 15,30,2024-07-09T18:45:00.000-04:00,1,"['junior', 'age_13_15']"
+71320,Junior Girls Ages 13- 15,30,2024-07-09T18:45:00.000-04:00,1,"['junior', 'age_13_15']"
+71320,Junior Boys Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71320,Junior Girls Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71320,Beginner Cat 3 Men,30,2024-07-09T18:45:00.000-04:00,0,"['men', 'cat_3', 'beginner']"
+71320,Beginner Cat 3 Women,30,2024-07-09T18:45:00.000-04:00,0,"['women', 'cat_3', 'beginner']"
+71320,Sport Cat 2 Men,30,2024-07-09T19:30:00.000-04:00,2,"['men', 'cat_2', 'sport']"
+71320,Sport Cat 2 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_2', 'sport']"
+71320,Elit Cat 1 Men,30,2024-07-09T19:30:00.000-04:00,1,"['men', 'cat_1']"
+71320,Elit Cat 1 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_1']"
+71321,Junior Boys Ages 13 - 15,30,2024-07-09T18:45:00.000-04:00,1,"['junior', 'age_13_15']"
+71321,Junior Girls Ages 13- 15,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_13_15']"
+71321,Junior Boys Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71321,Junior Girls Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71321,Beginner Cat 3 Men,30,2024-07-09T18:45:00.000-04:00,0,"['men', 'cat_3', 'beginner']"
+71321,Beginner Cat 3 Women,30,2024-07-09T18:45:00.000-04:00,0,"['women', 'cat_3', 'beginner']"
+71321,Sport Cat 2 Men,30,2024-07-09T19:30:00.000-04:00,1,"['men', 'cat_2', 'sport']"
+71321,Sport Cat 2 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_2', 'sport']"
+71321,Elit Cat 1 Men,30,2024-07-09T19:30:00.000-04:00,1,"['men', 'cat_1']"
+71321,Elit Cat 1 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_1']"
+71321,Boys Ages 8 & Under,2,2024-07-16T18:00:00.000-04:00,1,['junior']
+71321,Girls Ages 8 & Under,2,2024-07-16T18:00:00.000-04:00,0,['junior']
+71321,Boys Ages 9 - 12,3,2024-07-16T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71321,Girls Ages 9 - 12,3,2024-07-16T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71322,Boys Ages 8 & Under,1,2024-07-09T18:00:00.000-04:00,0,['junior']
+71322,Girls Ages 8 & Under,1,2024-07-09T18:00:00.000-04:00,0,['junior']
+71322,Boys Ages 9 - 12,2,2024-07-09T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71322,Girls Ages 9 - 12,2,2024-07-09T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71322,Junior Boys Ages 13 - 15,30,2024-07-09T18:45:00.000-04:00,1,"['junior', 'age_13_15']"
+71322,Junior Girls Ages 13- 15,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_13_15']"
+71322,Junior Boys Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71322,Junior Girls Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71322,Beginner Cat 3 Men,30,2024-07-09T18:45:00.000-04:00,0,"['men', 'cat_3', 'beginner']"
+71322,Beginner Cat 3 Women,30,2024-07-09T18:45:00.000-04:00,0,"['women', 'cat_3', 'beginner']"
+71322,Sport Cat 2 Men,30,2024-07-09T19:30:00.000-04:00,1,"['men', 'cat_2', 'sport']"
+71322,Sport Cat 2 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_2', 'sport']"
+71322,Elit Cat 1 Men,30,2024-07-09T19:30:00.000-04:00,1,"['men', 'cat_1']"
+71322,Elit Cat 1 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_1']"
+71323,Beginner Cat 3 Men,30,2024-07-09T18:45:00.000-04:00,0,"['men', 'cat_3', 'beginner']"
+71323,Beginner Cat 3 Women,30,2024-07-09T18:45:00.000-04:00,0,"['women', 'cat_3', 'beginner']"
+71323,Junior Boys Ages 13 - 15,30,2024-07-09T18:45:00.000-04:00,1,"['junior', 'age_13_15']"
+71323,Junior Boys Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71323,Junior Girls Ages 13- 15,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_13_15']"
+71323,Junior Girls Ages 16 - 18,30,2024-07-09T18:45:00.000-04:00,0,"['junior', 'age_16_18']"
+71323,Sport Cat 2 Women,30,2024-07-09T19:30:00.000-04:00,0,"['women', 'cat_2', 'sport']"
+71323,Boys Ages 8 & Under,30,2024-07-30T18:00:00.000-04:00,1,['junior']
+71323,Boys Ages 9 - 12,30,2024-07-30T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71323,Girls Ages 8 & Under,30,2024-07-30T18:00:00.000-04:00,0,['junior']
+71323,Girls Ages 9 - 12,30,2024-07-30T18:00:00.000-04:00,0,"['junior', 'age_9_12']"
+71323,Elite Cat 1 Men,30,2024-07-30T19:30:00.000-04:00,1,"['men', 'cat_1', 'elite']"
+71323,Elite Cat 1 Women,30,2024-07-30T19:30:00.000-04:00,0,"['women', 'cat_1', 'elite']"
+71323,Sport Cat 2 Men,30,2024-07-30T19:30:00.000-04:00,1,"['men', 'cat_2', 'sport']"
+71421,Pro Row BOTH DAYS,48,2023-09-30T00:00:00.000-04:00,0,['pro']
+71421,CLUB ROW INFIELD SPOTS,,2024-09-19T23:59:00.000-04:00,0,[]
+71421,Saturday Junior Girls (11-12),2,2024-09-27T07:45:00.000-04:00,0,['junior']
+71421,Sunday Junior Girls (11-12),2,2024-09-27T07:45:00.000-04:00,0,['junior']
+71421,Sunday Junior Boys (11-12),2,2024-09-27T07:45:00.000-04:00,0,['junior']
+71421,Saturday Junior Boys (9-10),2,2024-09-27T07:46:00.000-04:00,0,['junior']
+71421,Saturday Junior Girls (9-10),2,2024-09-27T07:46:00.000-04:00,0,['junior']
+71421,Sunday Junior Girls (9-10),2,2024-09-27T07:46:00.000-04:00,0,['junior']
+71421,Sunday Junior Boys (9-10),2,2024-09-27T07:46:00.000-04:00,0,['junior']
+71421,Sunday Beginner Men (Cat 4/5),45,2024-09-27T08:30:00.000-04:00,5,"['men', 'cat_4', 'cat_5', 'beginner']"
+71421,Sunday Junior Men (U19) NON UCI,45,2024-09-27T08:30:00.000-04:00,0,"['men', 'junior', 'pro']"
+71421,Saturday Junior Men U19 NON UCI,45,2024-09-27T08:30:00.000-04:00,0,"['men', 'junior', 'pro']"
+71421,"Saturday 50+ Women  Category 1,2,3,4 Part of the USCX Series",45,2024-09-27T09:30:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71421,Sunday Masters Women 40+ (Cat 1/2/3/4) part of the USCX Series,45,2024-09-27T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Saturday 40+ Women Category 1.2.3.4 part of the USCX series,45,2024-09-27T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71421,"Sunday 50+ Women Category 1,2,3,4 part of the USCX Series",45,2024-09-27T09:30:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71421,"Saturday Masters Women  60+ Category 1,2,3,4 Part of USCX Series",45,2024-09-27T09:31:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71421,Saturday Beginner Women (Cat 4/5),45,2024-09-27T09:31:00.000-04:00,2,"['women', 'cat_4', 'cat_5', 'beginner']"
+71421,Sunday Beginner Women (Cat 4/5),45,2024-09-27T09:31:00.000-04:00,1,"['women', 'cat_4', 'cat_5', 'beginner']"
+71421,"Sunday Masters Women 60+ Category 1,2,3,4 part of the USCX series",45,2024-09-27T09:31:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71421,"Saturday Masters Women 70+ Category 1,2,3,4.",45,2024-09-27T09:31:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71421,"Sunday Masters Women 70+ category 1,2,3,4",45,2024-09-27T09:31:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71421,Sunday Junior Women (13-14),45,2024-09-27T09:32:00.000-04:00,0,"['women', 'junior']"
+71421,Saturday Junior Girls (13-14),30,2024-09-27T09:32:00.000-04:00,0,['junior']
+71421,Saturday Masters Men 40+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T10:30:00.000-04:00,1,"['men', 'masters', 'age_40_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Saturday Masters Men 50+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T10:30:00.000-04:00,2,"['men', 'masters', 'age_50_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Sunday Masters Men 40+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T10:30:00.000-04:00,1,"['men', 'masters', 'age_40_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Saturday Masters Men 60+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T10:31:00.000-04:00,0,"['men', 'masters', 'age_60_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Saturday Masters Men 70+(Cat 1/2/3/4) part of the USCX Series,45,2024-09-27T10:31:00.000-04:00,0,"['men', 'masters', 'age_70_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Sunday Masters Men 70+ (Cat 1/2/3/4) part of the USCX series,45,2024-09-27T10:31:00.000-04:00,0,"['men', 'masters', 'age_70_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Saturday Masters Men 40+ (Cat 3/4/5),45,2024-09-27T11:30:00.000-04:00,4,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71421,Saturday  Junior Boys (13-14),45,2024-09-27T11:30:00.000-04:00,0,['junior']
+71421,Sunday Junior Boys (13-14),45,2024-09-27T11:30:00.000-04:00,0,['junior']
+71421,Sunday Masters Men 40+ (Cat 3/4/5),45,2024-09-27T11:30:00.000-04:00,4,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71421,Saturday “SMALL World Championships” kids racing,,2024-09-27T12:25:00.000-04:00,0,[]
+71421,Sunday 12:25 PM “Small World Championships” kids racing,,2024-09-27T12:25:00.000-04:00,0,[]
+71421,Saturday UCI Junior Women (17/18) Part of USCX Series.,40,2024-09-27T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71421,Sunday UCI Junior Women (17/18)Part of USCX Series,40,2024-09-27T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71421,Sunday Cat 2 Women,45,2024-09-27T12:50:00.000-04:00,0,"['women', 'cat_2']"
+71421,Saturday Women Category 2,45,2024-09-27T12:50:00.000-04:00,0,['women']
+71421,Saturday Women Singlespeed Category 1.2.3.4 Part of USCX Series,45,2024-09-27T12:51:00.000-04:00,0,['women']
+71421,Sunday Cat 3 Women Part of the USCX Series,45,2024-09-27T12:51:00.000-04:00,0,"['women', 'cat_3']"
+71421,"Sunday Women Singlespeed Category 1,2,3,4 Part of USCX Series",45,2024-09-27T12:51:00.000-04:00,0,['women']
+71421,Saturday Cat 3 Women Part of the USCX series,45,2024-09-27T12:51:00.000-04:00,0,"['women', 'cat_3']"
+71421,Saturday Junior Women U19 Non UCI,45,2024-09-27T12:52:00.000-04:00,0,"['women', 'junior', 'pro']"
+71421,Sunday Junior Women U19 NON UCI,45,2024-09-27T12:52:00.000-04:00,0,"['women', 'junior', 'pro']"
+71421,Saturday UCI C1 Junior Men (17-18) Part of USCX Series,40,2024-09-27T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+71421,Saturday Cat 2 Men,45,2024-09-27T13:50:00.000-04:00,0,"['men', 'cat_2']"
+71421,Sunday Cat 2 Men,45,2024-09-27T13:50:00.000-04:00,0,"['men', 'cat_2']"
+71421,Sunday UCI C2 Junior Men (17-18) Part of the USCX Series,40,2024-09-27T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+71421,"Saturday Men Singlespeed Category 1,2,3,4 Part of USCX Series",45,2024-09-27T13:51:00.000-04:00,1,['men']
+71421,"Sunday Men Singlespeed Category 1,2,3,4 Part of USCX Series",45,2024-09-27T13:51:00.000-04:00,1,['men']
+71421,Sunday Cat 3 Men Part of the USCX Series,45,2024-09-27T13:51:00.000-04:00,0,"['men', 'cat_3']"
+71421,Saturday Cat 3 Men Part of the USCX Series,45,2024-09-27T13:51:00.000-04:00,0,"['men', 'cat_3']"
+71421,Sunday UCI C2 Elite Women Part of the USCX Series,50,2024-09-27T14:55:00.000-04:00,0,"['women', 'elite', 'pro']"
+71421,Sunday UCI C2 Elite Men Part of the USCX Series,60,2024-09-27T16:05:00.000-04:00,1,"['men', 'elite', 'pro']"
+71421,Sunday Masters Men 50+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T22:30:00.000-04:00,2,"['men', 'masters', 'age_50_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,Sunday Masters Men 60+ (Cat 1/2/3/4) Part of USCX Series,45,2024-09-27T22:31:00.000-04:00,0,"['men', 'masters', 'age_60_plus', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71421,CLUB ROW BOTH DAYS,,2024-09-27T23:59:00.000-04:00,5,[]
+71421,Saturday Junior Boys (11-12),2,2025-09-27T07:45:00.000-04:00,0,['junior']
+71421,Saturday Beginner Men (Cat 4/5),45,2025-09-27T08:30:00.000-04:00,8,"['men', 'cat_4', 'cat_5', 'beginner']"
+71421,Saturday UCI C1 Elite Women Part of USCX Series,50,2025-09-27T14:55:00.000-04:00,0,"['women', 'elite', 'pro']"
+71421,Women’s Beginner Clinic with Maghalie Rochette,,2025-09-27T15:30:00.000-04:00,2,"['women', 'beginner']"
+71421,TBD mechanical check with David Gagnon.,,2025-09-27T15:30:00.000-04:00,2,[]
+71421,Saturday UCI C1 Elite Men Part of USCX Series,60,2025-09-27T16:05:00.000-04:00,1,"['men', 'elite', 'pro']"
+71472,Men Cat. 5 Waitlist,35,2024-10-12T08:00:00.000-04:00,0,['men']
+71472,Women Cat. 4/5 Waitlist,35,2024-10-12T08:01:00.000-04:00,0,['women']
+71472,Masters 40+ Cat. 3/4/5 Waitlist,40,2024-10-12T08:50:00.000-04:00,0,"['masters', 'age_40_plus']"
+71472,Men Cat. 3 Waitlist,45,2024-10-12T10:30:00.000-04:00,0,['men']
+71472,Men Cat. 4 Waitlist,45,2024-10-12T10:31:00.000-04:00,0,['men']
+71472,Li'l Belgians,,2024-10-12T12:00:00.000-04:00,0,[]
+71472,NCVC Women’s Team WTFNB Clinic and Pre-Ride,2,2024-10-12T15:00:00.000-04:00,0,['women']
+71472,Men Cat. 5,35,2025-06-09T08:00:00.000-04:00,0,['men']
+71472,Women Cat. 4/5,35,2025-06-09T08:01:00.000-04:00,0,['women']
+71472,Masters 40+ Cat. 3/4/5,40,2025-06-09T08:50:00.000-04:00,0,"['masters', 'age_40_plus']"
+71472,Junior Boys 13-14,30,2025-06-09T09:45:00.000-04:00,0,['junior']
+71472,Junior Girls 13-14,30,2025-06-09T09:46:00.000-04:00,0,['junior']
+71472,Junior Boys 11-12,30,2025-06-09T09:47:00.000-04:00,0,['junior']
+71472,Junior Girls 11-12,30,2025-06-09T09:48:00.000-04:00,0,['junior']
+71472,Junior Boys 9-10,2,2025-06-09T09:49:00.000-04:00,0,['junior']
+71472,Junior Girls 9-10,2,2025-06-09T09:50:00.000-04:00,0,['junior']
+71472,Men Cat. 3,45,2025-06-09T10:30:00.000-04:00,0,['men']
+71472,Men Cat. 4,45,2025-06-09T10:31:00.000-04:00,0,['men']
+71472,Master Women 45+ Cat. 1/2/3/4,40,2025-06-09T11:30:00.000-04:00,0,"['women', 'masters', 'age_45_plus']"
+71472,Women Cat. 3,40,2025-06-09T11:31:00.000-04:00,0,['women']
+71472,Women Cat. 4,40,2025-06-09T11:32:00.000-04:00,0,['women']
+71472,Junior U19 Women,40,2025-06-09T11:33:00.000-04:00,0,"['women', 'junior']"
+71472,Non-Binary Cat. 3/4/5,40,2025-06-09T11:34:00.000-04:00,0,['non_binary']
+71472,Masters 50+ Cat. 1/2/3/4,45,2025-06-09T12:25:00.000-04:00,0,"['masters', 'age_50_plus']"
+71472,Junior U19 Men,45,2025-06-09T12:26:00.000-04:00,0,"['men', 'junior']"
+71472,Masters 60+ Open,45,2025-06-09T12:27:00.000-04:00,0,"['mixed', 'masters', 'age_60_plus']"
+71472,Masters 40+ Cat. 1/2/3,45,2025-06-09T13:25:00.000-04:00,0,"['masters', 'age_40_plus']"
+71472,Singlespeed Men Open,45,2025-06-09T13:26:00.000-04:00,0,['men']
+71472,Singlespeed Women Open,45,2025-06-09T13:27:00.000-04:00,0,['women']
+71472,Women Cat. 1/2/3,50,2025-06-09T14:25:00.000-04:00,0,['women']
+71472,Non Binary Cat. 1/2/3,50,2025-06-09T14:26:00.000-04:00,0,[]
+71472,Men Cat. 1/2/3,60,2025-06-09T15:30:00.000-04:00,0,['men']
+71481,Boys Junior 11-12 - Saturday,30,2024-09-13T07:45:00.000-04:00,0,['junior']
+71481,Girls Junior 11-12 - Saturday,30,2024-09-13T07:45:00.000-04:00,0,['junior']
+71481,Boys Junior 11-12 - Sunday,30,2024-09-13T07:45:00.000-04:00,0,['junior']
+71481,Girls Junior 11-12 - Sunday,30,2024-09-13T07:45:00.000-04:00,0,['junior']
+71481,Boys Junior 9-10 - Saturday,30,2024-09-13T07:46:00.000-04:00,0,['junior']
+71481,Girls Junior 9-10 - Saturday,30,2024-09-13T07:46:00.000-04:00,0,['junior']
+71481,Boys Junior 9-10 - Sunday,30,2024-09-13T07:46:00.000-04:00,0,['junior']
+71481,Girls Junior 9-10 - Sunday,30,2024-09-13T07:46:00.000-04:00,0,['junior']
+71481,Men Cat 4/5 - Sunday,45,2024-09-13T08:30:00.000-04:00,2,"['men', 'cat_4', 'cat_5']"
+71481,Boys U19 (non UCI) -Sunday,45,2024-09-13T08:30:00.000-04:00,0,['pro']
+71481,Men Cat 4/5 - Saturday,45,2024-09-13T08:30:00.000-04:00,2,"['men', 'cat_4', 'cat_5']"
+71481,Boys U19 (non UCI) - Saturday,45,2024-09-13T08:30:00.000-04:00,0,['pro']
+71481,Masters Women 40+ - Sunday,45,2024-09-13T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71481,Masters Women 40+ - Saturday,45,2024-09-13T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71481,Masters Women 50+ - Saturday,45,2024-09-13T09:30:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71481,Masters Women 50+ - Sunday,45,2024-09-13T09:30:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71481,Women Cat 4/5 - Sunday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+71481,Women Cat 4/5 - Saturday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+71481,Masters Women 60+ - Saturday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71481,Masters Women 60+ - Sunday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71481,Masters Women 70+ - Saturday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71481,Masters Women 70+ - Sunday,45,2024-09-13T09:31:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71481,Girls Junior 13-14 - Saturday,45,2024-09-13T09:32:00.000-04:00,0,['junior']
+71481,Girls Junior 13-14 - Sunday,45,2024-09-13T09:32:00.000-04:00,0,['junior']
+71481,Masters Men 40+ - Sunday,45,2024-09-13T10:30:00.000-04:00,3,"['men', 'masters', 'age_40_plus']"
+71481,Masters Men 50+ - Sunday,45,2024-09-13T10:30:00.000-04:00,1,"['men', 'masters', 'age_50_plus']"
+71481,Masters Men 40+ -  Saturday,45,2024-09-13T10:30:00.000-04:00,2,"['men', 'masters', 'age_40_plus']"
+71481,Masters Men 50+ - Saturday,45,2024-09-13T10:30:00.000-04:00,1,"['men', 'masters', 'age_50_plus']"
+71481,Masters Men 60+ - Saturday,45,2024-09-13T10:31:00.000-04:00,2,"['men', 'masters', 'age_60_plus']"
+71481,Masters Men 60+ - Sunday,45,2024-09-13T10:31:00.000-04:00,2,"['men', 'masters', 'age_60_plus']"
+71481,Masters Men 70+ - Saturday,45,2024-09-13T10:31:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+71481,Masters Men 70+ - Sunday,45,2024-09-13T10:31:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+71481,Boys Junior 13-14 - Sunday,45,2024-09-13T11:30:00.000-04:00,0,['junior']
+71481,Boys Junior 13-14 - Saturday,45,2024-09-13T11:30:00.000-04:00,0,['junior']
+71481,Masters Men 40+ Cat 3/4/5 - Saturday,45,2024-09-13T11:30:00.000-04:00,1,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71481,Masters Men 40+ Cat 3/4/5 - Sunday,45,2024-09-13T11:30:00.000-04:00,1,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71481,Little Belgians (Sunday),1,2024-09-13T12:10:00.000-04:00,0,[]
+71481,Little Belgians (Saturday),1,2024-09-13T12:10:00.000-04:00,1,[]
+71481,Women Cat 2 - Sunday,45,2024-09-13T12:50:00.000-04:00,0,"['women', 'cat_2']"
+71481,Women Cat 2 - Saturday,45,2024-09-13T12:50:00.000-04:00,0,"['women', 'cat_2']"
+71481,UCI Junior Women 17-18 - Saturday,40,2024-09-13T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71481,UCI Junior Women 17-18 - Sunday,40,2024-09-13T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71481,Women Cat 3 - Sunday,45,2024-09-13T12:51:00.000-04:00,0,"['women', 'cat_3']"
+71481,Women Cat 3 - Saturday,45,2024-09-13T12:51:00.000-04:00,0,"['women', 'cat_3']"
+71481,Women Single Speed - Saturday,45,2024-09-13T12:51:00.000-04:00,0,['women']
+71481,Women Single Speed - Sunday,45,2024-09-13T12:51:00.000-04:00,0,['women']
+71481,Girls U19 (non UCI) - Sunday,45,2024-09-13T12:51:00.000-04:00,0,['pro']
+71481,Girls U19 (non UCI) - Saturday,45,2024-09-13T12:52:00.000-04:00,0,['pro']
+71481,Men Cat 2 - Sunday,45,2024-09-13T13:50:00.000-04:00,1,"['men', 'cat_2']"
+71481,Men Cat 3 - Sunday,45,2024-09-13T13:50:00.000-04:00,0,"['men', 'cat_3']"
+71481,Men Cat 2 - Saturday,45,2024-09-13T13:50:00.000-04:00,1,"['men', 'cat_2']"
+71481,UCI Junior Men 17-18 - Saturday,40,2024-09-13T13:50:00.000-04:00,1,"['men', 'junior', 'pro']"
+71481,UCI Junior Men 17-18 - Sunday,40,2024-09-13T13:50:00.000-04:00,1,"['men', 'junior', 'pro']"
+71481,Men Single Speed - Sunday,45,2024-09-13T13:51:00.000-04:00,2,['men']
+71481,Men Single Speed - Saturday,45,2024-09-13T13:51:00.000-04:00,3,['men']
+71481,Men Cat 3 - Saturday,45,2024-09-13T13:51:00.000-04:00,0,"['men', 'cat_3']"
+71481,UCI Elite Women - C1 - Saturday,50,2024-09-13T14:55:00.000-04:00,2,"['women', 'elite', 'pro']"
+71481,UCI Elite Women - C2 - Sunday,50,2024-09-13T14:55:00.000-04:00,2,"['women', 'elite', 'pro']"
+71481,"UCI Course Preview - Friday, September 13th",90,2024-09-13T15:30:00.000-04:00,5,['pro']
+71481,UCI Elite Men - C1 - Saturday,60,2024-09-13T16:05:00.000-04:00,6,"['men', 'elite', 'pro']"
+71481,UCI Elite Men - C2 - Sunday,60,2024-09-13T16:05:00.000-04:00,5,"['men', 'elite', 'pro']"
+71481,"Amateur Course Preview - Friday, September 13th",90,2024-09-13T17:00:00.000-04:00,5,[]
+71508,Volunteer,1,2024-09-17T23:59:00.000-04:00,0,[]
+71508,Master Women 40+ Cat. 1/2/3/4,40,2025-06-23T00:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71508,Master Women 50+/60+ Open,40,2025-06-23T00:30:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71508,Women Cat. 3,40,2025-06-23T00:31:00.000-04:00,0,['women']
+71508,Women Cat. 4,40,2025-06-23T00:32:00.000-04:00,0,['women']
+71508,Junior U19 Women,40,2025-06-23T00:33:00.000-04:00,0,"['women', 'junior']"
+71508,Non-Binary Cat. 3/4/5,40,2025-06-23T00:34:00.000-04:00,0,['non_binary']
+71508,Women Cat. 4/5,35,2025-06-23T09:01:00.000-04:00,0,['women']
+71508,Women Cat. 4/5 Waitlist,35,2025-06-23T09:01:00.000-04:00,0,['women']
+71508,Junior Girls 13-14,30,2025-06-23T10:46:00.000-04:00,0,['junior']
+71508,Junior Girls 11-12,30,2025-06-23T10:48:00.000-04:00,0,['junior']
+71508,Junior Girls 9-10,2,2025-06-23T10:50:00.000-04:00,0,['junior']
+71508,Singlespeed Women Open,45,2025-06-23T14:26:00.000-04:00,0,['women']
+71508,Women Cat. 1/2/3,50,2025-06-23T15:25:00.000-04:00,0,['women']
+71508,Non-Binary Cat. 1/2/3,50,2025-06-23T15:26:00.000-04:00,0,['non_binary']
+71508,Men Cat. 5,35,2025-09-21T09:00:00.000-04:00,0,['men']
+71508,Men Cat. 5 Waitlist,35,2025-09-21T09:00:00.000-04:00,0,['men']
+71508,Masters 40+ Cat. 3/4/5,40,2025-09-21T09:50:00.000-04:00,0,"['masters', 'age_40_plus']"
+71508,Masters 40+ Cat. 3/4/5 Waitlist,40,2025-09-21T09:50:00.000-04:00,0,"['masters', 'age_40_plus']"
+71508,Junior Boys 13-14,30,2025-09-21T10:45:00.000-04:00,0,['junior']
+71508,Junior Boys 11-12,30,2025-09-21T10:47:00.000-04:00,0,['junior']
+71508,Junior Boys 9-10,2,2025-09-21T10:49:00.000-04:00,0,['junior']
+71508,Men Cat. 3,45,2025-09-21T11:30:00.000-04:00,0,['men']
+71508,Men Cat. 3 Waitlist,45,2025-09-21T11:30:00.000-04:00,0,['men']
+71508,Men Cat. 4,45,2025-09-21T11:31:00.000-04:00,0,['men']
+71508,Men Cat. 4 Waitlist,45,2025-09-21T11:31:00.000-04:00,0,['men']
+71508,Li'l Belgians,30,2025-09-21T12:00:00.000-04:00,0,[]
+71508,Saturday WTFNB CX Clinic Junior U19 and Cat. 3/4/5 Participants,2,2025-09-21T13:00:00.000-04:00,0,"['non_binary', 'junior']"
+71508,Saturday WTFNB CX Clinic Volunteer,2,2025-09-21T13:00:00.000-04:00,0,['non_binary']
+71508,Masters 50+ Cat. 1/2/3/4,45,2025-09-21T13:25:00.000-04:00,0,"['masters', 'age_50_plus']"
+71508,Junior U19 Men,45,2025-09-21T13:26:00.000-04:00,0,"['men', 'junior']"
+71508,Masters 60+ Open,45,2025-09-21T13:27:00.000-04:00,0,"['mixed', 'masters', 'age_60_plus']"
+71508,Singlespeed Men Open,45,2025-09-21T14:25:00.000-04:00,0,['men']
+71508,Masters 40+ Cat. 1/2/3,45,2025-09-21T14:27:00.000-04:00,0,"['masters', 'age_40_plus']"
+71508,Men Cat. 1/2/3,60,2025-09-21T15:27:00.000-04:00,0,['men']
+71519,Junior Boys (11-12) - Saturday - USCX,30,2024-09-20T07:45:00.000-04:00,0,['junior']
+71519,Junior Boys (11-12) - Sunday - USCX,30,2024-09-20T07:45:00.000-04:00,0,['junior']
+71519,Junior Girls (11-12) - Saturday - USCX,30,2024-09-20T07:46:00.000-04:00,0,['junior']
+71519,Junior Girls (11-12) - Sunday - USCX,30,2024-09-20T07:46:00.000-04:00,0,['junior']
+71519,Junior Boys (9-10) - Saturday - USCX,30,2024-09-20T07:47:00.000-04:00,0,['junior']
+71519,Junior Boys (9-10) - Sunday - USCX,30,2024-09-20T07:47:00.000-04:00,0,['junior']
+71519,Junior Girls (9-10) - Saturday - USCX,30,2024-09-20T07:48:00.000-04:00,0,['junior']
+71519,Junior Girls (9-10) - Sunday - USCX,30,2024-09-20T07:48:00.000-04:00,0,['junior']
+71519,Men Cat 4/5 - Saturday,45,2024-09-20T08:30:00.000-04:00,1,"['men', 'cat_4', 'cat_5']"
+71519,Men Cat 4/5 - Sunday,45,2024-09-20T08:30:00.000-04:00,1,"['men', 'cat_4', 'cat_5']"
+71519,Junior Boys (U19) Non-UCI - Saturday - USCX,45,2024-09-20T08:31:00.000-04:00,0,"['junior', 'pro']"
+71519,Junior Boys (U19) Non UCI - Sunday - USCX,45,2024-09-20T08:31:00.000-04:00,0,"['junior', 'pro']"
+71519,Masters Women (40+) - Saturday - USCX,45,2024-09-20T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71519,Masters Women (40+) - Sunday - USCX,45,2024-09-20T09:30:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71519,Masters Women (50+) - Sunday - USCX,45,2024-09-20T09:31:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71519,Masters Women (60+) - Sunday - USCX,45,2024-09-20T09:32:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71519,Masters Women (70+) - Sunday - USCX,45,2024-09-20T09:33:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71519,Women Cat 4/5 - Saturday,45,2024-09-20T09:34:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+71519,Women Cat 4/5 - Sunday,45,2024-09-20T09:34:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+71519,Junior Girls (13-14) - Saturday - USCX,45,2024-09-20T09:35:00.000-04:00,0,['junior']
+71519,Junior Girls (13-14) - Sunday - USCX,45,2024-09-20T09:35:00.000-04:00,0,['junior']
+71519,Masters Men (40+) - Saturday - USCX,45,2024-09-20T10:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71519,Masters Men (40+) - Sunday - USCX,45,2024-09-20T10:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71519,Masters Men (50+) - Saturday - USCX,45,2024-09-20T10:31:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71519,Masters Men (50+) - Sunday - USCX,45,2024-09-20T10:31:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71519,Masters Men (60+) - Saturday - USCX,45,2024-09-20T10:32:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71519,Masters Men (60+) - Sunday - USCX,45,2024-09-20T10:32:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71519,Masters Men (70+) - Saturday - USCX,45,2024-09-20T10:33:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+71519,Masters Men (70+) - Sunday - USCX,45,2024-09-20T10:33:00.000-04:00,0,"['men', 'masters', 'age_70_plus']"
+71519,Masters Men (40+) Cat 3/4/5 - Saturday,45,2024-09-20T11:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71519,Masters Men (40+) Cat 3/4/5 - Sunday,45,2024-09-20T11:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3', 'cat_4', 'cat_5']"
+71519,Junior Boys (13-14) - Saturday - USCX,45,2024-09-20T11:31:00.000-04:00,0,['junior']
+71519,Junior Boys (13-14) - Sunday - USCX,45,2024-09-20T11:31:00.000-04:00,0,['junior']
+71519,Lil Belgians (ages 8 and under) - Saturday,15,2024-09-20T12:25:00.000-04:00,0,['junior']
+71519,Lil Belgians (ages 8 and under) - Sunday,15,2024-09-20T12:25:00.000-04:00,0,['junior']
+71519,UCI Junior Women (17-18) - Sunday,40,2024-09-20T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71519,UCI Junior Women (17-18) - Saturday,40,2024-09-20T12:50:00.000-04:00,0,"['women', 'junior', 'pro']"
+71519,Women Cat 2 - Saturday,45,2024-09-20T12:51:00.000-04:00,0,"['women', 'cat_2']"
+71519,Women Cat 2 - Sunday,45,2024-09-20T12:51:00.000-04:00,0,"['women', 'cat_2']"
+71519,Women Cat 3 - Saturday - USCX,45,2024-09-20T12:52:00.000-04:00,0,"['women', 'cat_3']"
+71519,Women Cat 3 - Sunday - USCX,45,2024-09-20T12:52:00.000-04:00,0,"['women', 'cat_3']"
+71519,Women Single Speed - Saturday - USCX,45,2024-09-20T12:53:00.000-04:00,0,['women']
+71519,Women Single Speed - Sunday - USCX,45,2024-09-20T12:53:00.000-04:00,0,['women']
+71519,Junior Girls (U19) Non UCI - Sunday - USCX,45,2024-09-20T12:54:00.000-04:00,0,"['junior', 'pro']"
+71519,Junior Girls (U19) Non UCI - Saturday - USCX,45,2024-09-20T12:54:00.000-04:00,0,"['junior', 'pro']"
+71519,UCI Junior Men (17-18) - Saturday,40,2024-09-20T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+71519,UCI Junior Men (17-18) - Sunday,40,2024-09-20T13:50:00.000-04:00,0,"['men', 'junior', 'pro']"
+71519,Men Cat 2 - Saturday,45,2024-09-20T13:51:00.000-04:00,0,"['men', 'cat_2']"
+71519,Men Cat 2 - Sunday,45,2024-09-20T13:51:00.000-04:00,0,"['men', 'cat_2']"
+71519,Men Cat 3 - Saturday - USCX,45,2024-09-20T13:52:00.000-04:00,0,"['men', 'cat_3']"
+71519,Men Cat 3 - Sunday - USCX,45,2024-09-20T13:52:00.000-04:00,0,"['men', 'cat_3']"
+71519,Men Single Speed - Saturday - USCX,45,2024-09-20T13:53:00.000-04:00,1,['men']
+71519,Men Single Speed - Sunday - USCX,45,2024-09-20T13:53:00.000-04:00,1,['men']
+71519,Elite Women (UCI C1) - Saturday,50,2024-09-20T14:55:00.000-04:00,0,"['women', 'elite', 'pro']"
+71519,Elite Men/Open (UCI C2) - Sunday,60,2024-09-20T16:05:00.000-04:00,0,"['men', 'elite', 'pro']"
+71519,Elite Men/Open (UCI C1) - Saturday,60,2024-09-20T16:05:00.000-04:00,0,"['men', 'elite', 'pro']"
+71519,Masters Women (50+) - Saturday - USCX,45,2025-09-19T09:31:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71519,Masters Women (60+) - Saturday - USCX,45,2025-09-19T09:32:00.000-04:00,0,"['women', 'masters', 'age_60_plus']"
+71519,Masters Women (70+) - Saturday - USCX,45,2025-09-19T09:33:00.000-04:00,0,"['women', 'masters', 'age_70_plus']"
+71519,Elite Women (UCI C2) - Sunday,50,2025-09-19T14:55:00.000-04:00,0,"['women', 'elite', 'pro']"
+71519,Cycle-Smart Course Inspection Clinic w/ Adam Myerson,90,2025-09-19T15:00:00.000-04:00,0,[]
+71519,"UCI Course Preview - Friday, September 19th",90,2025-09-19T16:30:00.000-04:00,0,['pro']
+71519,"Amateur Course Preview - Friday, September 19th",45,2025-09-19T18:00:00.000-04:00,1,[]
+71554,5-Pack Registration,,2025-06-16T23:59:00.000-04:00,2,[]
+71555,Men Category 4,,2024-03-18T23:59:00.000-04:00,0,['men']
+71555,Single Speed Category 4 and 5,,2024-03-18T23:59:00.000-04:00,0,[]
+71555,Beginner Men Cat 5,,2024-03-18T23:59:00.000-04:00,0,"['men', 'cat_5', 'beginner']"
+71555,Women Category 3,,2024-03-18T23:59:00.000-04:00,0,['women']
+71555,Women Category 4,,2024-03-18T23:59:00.000-04:00,0,['women']
+71555,Beginner Women Cat 5,,2024-03-18T23:59:00.000-04:00,0,"['women', 'cat_5', 'beginner']"
+71555,Women OPEN,,2024-03-18T23:59:00.000-04:00,0,['women']
+71555,Single Speed Women,,2024-03-18T23:59:00.000-04:00,0,['women']
+71555,Women 40+,,2024-03-18T23:59:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71555,Men 40+ Category 4-5,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71555,Men 50+ Category 4-5,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71555,Men OPEN,,2024-03-18T23:59:00.000-04:00,0,['men']
+71555,Men 40+,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71555,Men 50+,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71555,Men 60+,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71555,Single Speed Men,,2024-03-18T23:59:00.000-04:00,0,['men']
+71555,Men Category 3,,2024-03-18T23:59:00.000-04:00,0,['men']
+71555,Men 40+ Category 3,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71555,Women 50+,,2024-03-18T23:59:00.000-04:00,0,"['women', 'masters', 'age_50_plus']"
+71555,Men 50+ Category 3,,2024-03-18T23:59:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71555,Junior Men 15-16,,2025-06-16T23:59:00.000-04:00,0,"['men', 'junior']"
+71555,Junior Men 17-18,,2025-06-16T23:59:00.000-04:00,0,"['men', 'junior']"
+71555,Junior Women 15-16,,2025-06-16T23:59:00.000-04:00,0,"['women', 'junior']"
+71555,Junior Women 17-18,,2025-06-16T23:59:00.000-04:00,0,"['women', 'junior']"
+71555,Junior Men 13-14,,2025-06-16T23:59:00.000-04:00,0,"['men', 'junior']"
+71555,Junior Women 13-14,,2025-06-16T23:59:00.000-04:00,0,"['women', 'junior']"
+71555,Junior Men 11-12,,2025-06-16T23:59:00.000-04:00,0,"['men', 'junior']"
+71555,Junior Women 11-12,,2025-06-16T23:59:00.000-04:00,0,"['women', 'junior']"
+71555,Junior Men 9-10,,2025-06-16T23:59:00.000-04:00,0,"['men', 'junior']"
+71555,Junior Women 9-10,,2025-06-16T23:59:00.000-04:00,0,"['women', 'junior']"
+71566,Tear Down - 3:10pm,,2021-06-28T23:59:00.000-04:00,0,[]
+71566,"Pre-Registration Shift #1 - 6:45a,-9:15am",,2022-08-05T23:59:00.000-04:00,0,['masters']
+71566,Chip Collection and Course Maintenance - 8:50am-11:45am,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71566,Pre-registration Shift #2 - 9:15am-11:45am,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71566,Chip Handout Shift #2 - 9:30am-12:00pm,,2022-08-05T23:59:00.000-04:00,0,[]
+71566,Chip Collection and Course Maintenance Shift #2 - 12:00pm-3:30pm,,2022-08-05T23:59:00.000-04:00,0,[]
+71566,Chip Handout Shift #3 - 12:00pm-2:30pm,,2022-08-05T23:59:00.000-04:00,0,[]
+71566,Early Morning Set-up 5am-8am,,2024-08-27T23:59:00.000-04:00,0,[]
+71566,Friday Set-up 1pm,,2024-10-22T23:59:00.000-04:00,0,[]
+71566,Chip Handout Shift #1 - 7:00am-9:30am,,2024-10-26T23:59:00.000-04:00,0,[]
+71566,Pre-registration Shift #3 - 11:45am-2:30pm,,2024-10-26T23:59:00.000-04:00,0,['masters']
+71568,Tear Down - 3:10pm,,2021-06-28T23:59:00.000-04:00,0,[]
+71568,Pre-Registration Shift #1 - 6:45am-9:15am,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71568,Chip Handout Shift #1 - 7:00am-9:30am,,2022-08-05T23:59:00.000-04:00,0,[]
+71568,Chip Collection and Course Maintenance - 8:50am-11:35am,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71568,Pre-registration Shift #2 - 9:15am-11:45am,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71568,Chip Handout Shift #2 - 9:30am-12:00pm,,2022-08-05T23:59:00.000-04:00,0,[]
+71568,Chip Handout Shift #3 - 12:00pm-2:30pm,,2022-08-05T23:59:00.000-04:00,0,[]
+71568,Pre-registration Shift #3 - 11:45am-2:30pm,,2022-08-05T23:59:00.000-04:00,0,['masters']
+71568,Chip Collection and Course Maintenance Shift #2 - 12:00pm-3:30pm,,2022-08-17T23:59:00.000-04:00,0,[]
+71568,Friday Set-up 1pm,,2024-08-27T23:59:00.000-04:00,0,[]
+71601,Single Speed Cat 4 & 5,40,2023-09-07T08:30:00.000-04:00,0,['cat_4']
+71601,Men Cat 5 19+ (Beginner),40,2023-09-07T08:30:00.000-04:00,0,"['men', 'age_19_plus', 'cat_5', 'beginner']"
+71601,Women Cat 3,40,2023-09-07T09:25:00.000-04:00,0,"['women', 'cat_3']"
+71601,Women Cat 5 19+ (Beginner),40,2023-09-07T09:25:00.000-04:00,0,"['women', 'age_19_plus', 'cat_5', 'beginner']"
+71601,Women Open,40-50,2023-09-07T11:15:00.000-04:00,0,['women']
+71601,Single Speed Women,40,2023-09-07T11:15:00.000-04:00,0,['women']
+71601,Women 40+,40,2023-09-07T11:15:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71601,Junior Men 11-12,20,2023-09-07T12:25:00.000-04:00,0,"['men', 'junior']"
+71601,Junior Women 11-12,20,2023-09-07T12:25:00.000-04:00,0,"['women', 'junior']"
+71601,Junior Men 9-10,20,2023-09-07T12:25:00.000-04:00,0,"['men', 'junior']"
+71601,Junior Women 9-10,20,2023-09-07T12:25:00.000-04:00,0,"['women', 'junior']"
+71601,Men Cat 4 (19+),40,2023-09-30T08:30:00.000-04:00,0,"['men', 'age_19_plus', 'cat_4']"
+71601,Women Cat 4 (19+),40,2024-09-28T09:25:00.000-04:00,0,"['women', 'age_19_plus', 'cat_4']"
+71601,Men 40+ Cat 4,40,2024-09-28T10:20:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_4']"
+71601,Men 50+ Cat 4,40,2024-09-28T10:20:00.000-04:00,0,"['men', 'masters', 'age_50_plus', 'cat_4']"
+71601,Women 50 +,40,2024-09-28T11:15:00.000-04:00,0,"['women', 'masters']"
+71601,Junior Men 13-14,30,2024-09-28T13:00:00.000-04:00,0,"['men', 'junior']"
+71601,Junior Women 13-14,30,2024-09-28T13:00:00.000-04:00,0,"['women', 'junior']"
+71601,Junior Men 15-16,30,2024-09-28T13:45:00.000-04:00,0,"['men', 'junior']"
+71601,Junior Women 15-16,30,2024-09-28T13:45:00.000-04:00,0,"['women', 'junior']"
+71601,Junior Men 17-18,30,2024-09-28T13:45:00.000-04:00,0,"['men', 'junior']"
+71601,Junior Women 17-18,30,2024-09-28T13:45:00.000-04:00,0,"['women', 'junior']"
+71601,Men Cat 3,45,2024-09-28T14:30:00.000-04:00,0,"['men', 'cat_3']"
+71601,Men 40+ Cat 3,45,2024-09-28T14:31:00.000-04:00,0,"['men', 'masters', 'age_40_plus', 'cat_3']"
+71601,Men 50+ Cat 3,45,2024-09-28T14:31:00.000-04:00,0,"['men', 'masters', 'age_50_plus', 'cat_3']"
+71601,Men 50+,40,2024-09-28T15:30:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71601,Men 60+,40,2024-09-28T15:31:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71601,Open Men,55,2024-09-28T16:20:00.000-04:00,0,['men']
+71601,Men 40+,55,2024-09-28T16:20:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71601,Single Speed Men,45,2024-09-28T16:21:00.000-04:00,0,['men']
+71610,Men Cat 4/5,40,2024-09-14T09:00:00.000-04:00,0,"['men', 'cat_4', 'cat_5']"
+71610,Masters 50+,45,2024-09-14T10:00:00.000-04:00,0,"['masters', 'age_50_plus']"
+71610,Masters 60+,45,2024-09-14T10:00:00.000-04:00,0,"['masters', 'age_60_plus']"
+71610,Masters 70+,45,2024-09-14T10:00:00.000-04:00,0,"['masters', 'age_70_plus']"
+71610,Women Cat 4/5,40,2024-09-14T11:00:00.000-04:00,0,"['women', 'cat_4', 'cat_5']"
+71610,Women Masters 45+,40,2024-09-14T11:00:00.000-04:00,0,"['women', 'masters', 'age_45_plus']"
+71610,U19 Women,40,2024-09-14T11:00:00.000-04:00,0,['women']
+71610,Men Cat 3/4,45,2024-09-14T12:00:00.000-04:00,1,"['men', 'cat_3', 'cat_4']"
+71610,Kids (10 & under),2,2024-09-14T12:15:00.000-04:00,0,[]
+71610,Men U15,20,2024-09-14T13:00:00.000-04:00,0,['men']
+71610,Women U15,20,2024-09-14T13:00:00.000-04:00,0,['women']
+71610,Women Elite Cat 1/2/3,45,2024-09-14T13:30:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3', 'elite']"
+71610,Men Elite Cat 1/2/3,60,2024-09-14T14:30:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3', 'elite']"
+71610,Men Masters 40+,60,2024-09-14T14:30:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71610,Masters 40+ Cat 4/5,40,2024-09-14T15:30:00.000-04:00,0,"['masters', 'age_40_plus', 'cat_4', 'cat_5']"
+71610,Single Speed,40,2024-09-14T15:30:00.000-04:00,0,[]
+71610,Men U19,40,2024-09-14T15:30:00.000-04:00,0,['men']
+71646,Cyclocross Clinic - July 21,,2025-07-21T18:00:00.000-04:00,0,[]
+71646,Cyclocross Clinic - August 18,,2025-07-21T18:00:00.000-04:00,0,[]
+71681,Men 1/2/3 35+,60,2024-09-15T12:00:00.000-04:00,0,"['men', 'age_35_plus']"
+71681,Junior Girls,30,2024-09-22T09:30:00.000-04:00,0,['junior']
+71681,Junior Boys,30,2024-09-22T09:30:00.000-04:00,0,['junior']
+71681,Men's 3/4,45,2024-09-22T10:10:00.000-04:00,0,['men']
+71681,Men U19,45,2024-09-22T10:10:00.000-04:00,0,['men']
+71681,Men 4/5,40,2024-09-22T11:05:00.000-04:00,0,['men']
+71681,Men 1/2/3,60,2024-09-22T12:00:00.000-04:00,0,['men']
+71681,Men U23,60,2024-09-22T12:00:00.000-04:00,0,['men']
+71681,1/2/3 Women,40,2024-09-22T13:15:00.000-04:00,0,['women']
+71681,Women U23,40,2024-09-22T13:15:00.000-04:00,0,['women']
+71681,1/2/3 Women 35+,40,2024-09-22T13:15:00.000-04:00,0,"['women', 'age_35_plus']"
+71681,4/5 Women,40,2024-09-22T13:15:00.000-04:00,0,['women']
+71681,4/5 Women 40+,40,2024-09-22T13:15:00.000-04:00,0,"['women', 'masters', 'age_40_plus']"
+71681,Masters Men 1/2/3/4 40+,45,2024-09-22T14:00:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71681,Masters Men 1/2/3/4 50+,45,2024-09-22T14:00:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71681,Men Singlespeed,45,2024-09-22T14:00:00.000-04:00,0,['men']
+71681,Women Singlespeed,45,2024-09-22T14:00:00.000-04:00,0,['women']
+71681,Non-Binary,45,2024-09-22T14:00:00.000-04:00,0,['non_binary']
+71694,Elite Men,4,2024-08-24T08:00:00.000-04:00,0,"['men', 'elite']"
+71694,Elite Women,4,2024-08-24T08:01:00.000-04:00,0,"['women', 'elite']"
+71694,Masters Men 45+,3,2024-08-24T08:02:00.000-04:00,0,"['men', 'masters', 'age_45_plus']"
+71694,Masters Women 45+,3,2024-08-24T08:03:00.000-04:00,0,"['women', 'masters', 'age_45_plus']"
+71694,Sport Men,3,2024-08-24T08:04:00.000-04:00,0,"['men', 'sport']"
+71694,Sport Women,3,2024-08-24T08:05:00.000-04:00,0,"['women', 'sport']"
+71694,Beginner Men,2,2024-08-24T08:06:00.000-04:00,0,"['men', 'beginner']"
+71694,Junior Boys 14-17,2,2024-08-24T08:06:00.000-04:00,0,['junior']
+71694,Beginner Women,2,2024-08-24T08:07:00.000-04:00,0,"['women', 'beginner']"
+71694,Junior Girls 14-17,2,2024-08-24T08:08:00.000-04:00,0,['junior']
+71694,Junior Boys 13 and Under,1,2024-08-24T08:08:00.000-04:00,0,['junior']
+71694,Junior Girls 13 and Under,1,2024-08-24T08:09:00.000-04:00,0,['junior']
+71695,Juniors 9-14 (Girls),30,2023-09-10T09:33:00.000-04:00,0,['junior']
+71695,Juniors 15-18 (Boys),30,2025-09-07T09:30:00.000-04:00,0,['junior']
+71695,Juniors 9-14 (Boys),30,2025-09-07T09:31:00.000-04:00,0,['junior']
+71695,Juniors 15-18 (Girls),30,2025-09-07T09:32:00.000-04:00,0,['junior']
+71695,Men Cat 4,45,2025-09-07T10:15:00.000-04:00,0,"['men', 'cat_4']"
+71695,Single Speed (Men & Women Combined),45,2025-09-07T10:16:00.000-04:00,0,['men']
+71695,Men Cat 5,45,2025-09-07T10:17:00.000-04:00,0,"['men', 'cat_5']"
+71695,Women Cat 1/2/3,45,2025-09-07T11:20:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+71695,Women Cat 4 & 5,45,2025-09-07T11:21:00.000-04:00,0,"['women', 'cat_4']"
+71695,Kids 8 & Under,10,2025-09-07T12:20:00.000-04:00,0,[]
+71695,Men Cat 1/2/3/4,60,2025-09-07T12:30:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71695,Men Cat 3,60,2025-09-07T12:31:00.000-04:00,0,"['men', 'cat_3']"
+71695,Masters Men (40+),45,2025-09-07T12:32:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71695,Masters Men (50+),45,2025-09-07T12:33:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71695,Masters Men (60+),45,2025-09-07T12:34:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71696,Juniors 15-18 (Boys),30,2025-09-28T09:30:00.000-04:00,0,['junior']
+71696,Juniors 9-14 (Boys),30,2025-09-28T09:31:00.000-04:00,0,['junior']
+71696,Juniors 15-18 (Girls),30,2025-09-28T09:32:00.000-04:00,0,['junior']
+71696,Juniors 9-14 (Girls),30,2025-09-28T09:33:00.000-04:00,0,['junior']
+71696,Men Cat 4,45,2025-09-28T10:15:00.000-04:00,0,"['men', 'cat_4']"
+71696,Single Speed (M&W Combined),45,2025-09-28T10:16:00.000-04:00,1,[]
+71696,Men Cat 5,45,2025-09-28T10:17:00.000-04:00,0,"['men', 'cat_5']"
+71696,Women Cat 1/2/3,45,2025-09-28T11:20:00.000-04:00,0,"['women', 'cat_1', 'cat_2', 'cat_3']"
+71696,Women Cat 4 & 5,45,2025-09-28T11:21:00.000-04:00,0,"['women', 'cat_4']"
+71696,Kids 8 & Under,10,2025-09-28T12:20:00.000-04:00,0,[]
+71696,Men Cat 1/2/3/4,60,2025-09-28T12:30:00.000-04:00,0,"['men', 'cat_1', 'cat_2', 'cat_3', 'cat_4']"
+71696,Men Cat 3 (scored separately),60,2025-09-28T12:31:00.000-04:00,0,"['men', 'cat_3']"
+71696,Masters Men (40+),60,2025-09-28T12:32:00.000-04:00,0,"['men', 'masters', 'age_40_plus']"
+71696,Masters Men (50+),60,2025-09-28T12:33:00.000-04:00,0,"['men', 'masters', 'age_50_plus']"
+71696,Masters Men (60+),60,2025-09-28T12:34:00.000-04:00,0,"['men', 'masters', 'age_60_plus']"
+71702,CX School - Weekly on Tuesdays,~60,2025-08-05T18:00:00.000-04:00,1,[]

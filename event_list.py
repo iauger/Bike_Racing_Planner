@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import json
 import re
+import time
 
 GRAPHQL_URL = "https://outsideapi.com/fed-gw/graphql"
 HEADERS = {
@@ -130,6 +131,7 @@ def tag_category_name(name):
 
 def fetch_cyclocross_events(batch_size=25, max_batches=None):
     events = []
+    categories = []
     cursor = None
     batch_count = 0
 
@@ -165,30 +167,34 @@ def fetch_cyclocross_events(batch_size=25, max_batches=None):
         for node in data["nodes"]:
             ae = node.get("athleticEvent", {})
             event_id = node.get("eventId")
-
-            # Default categories from GraphQL
-            categories = ae.get("categories", [])
+            raw_categories = ae.get("categories", [])
 
             # Enrich categories with registration counts from REST API
             try:
                 details = get_event_details(event_id)
+                time.sleep(5)  # Throttle API requests to avoid rate limiting
                 match = details.get("MatchingEvents", [{}])[0]
                 category_counts = {
                     c["CategoryName"].strip(): c["RegistrationCount"]
                     for c in match.get("Categories", [])
                 }
-
-                for c in categories:
-                    name = c.get("name", "").strip()
-                    c["RegistrationCount"] = category_counts.get(name, 0)
-                    c["tags"] = tag_category_name(name)
             except Exception as e:
                 print(f"Warning: could not enrich event {event_id}: {e}")
-                for c in categories:
-                    c["RegistrationCount"] = 0
-                    c["tags"] = tag_category_name(c.get("name", ""))
+                category_counts = {}
+                
+            for cat in raw_categories:
+                name = cat.get("name", "").strip()
+                categories.append({
+                    "eventId": event_id,
+                    "categoryName": name,
+                    "distance": cat.get("distance"),
+                    "startTime": cat.get("startTime"),
+                    "registrationCount": category_counts.get(name, 0),
+                    "tags": tag_category_name(name)
+                })
 
             events.append({
+                "eventId": event_id,
                 "name": node["name"],
                 "city": node["city"],
                 "state": node["state"],
@@ -197,7 +203,6 @@ def fetch_cyclocross_events(batch_size=25, max_batches=None):
                 "startDate": node["startDate"],
                 "endDate": node["endDate"],
                 "distance": node.get("distanceString"),
-                "eventId": event_id,
                 "url": ae.get("eventUrl"),
                 "staticUrl": ae.get("staticUrl"),
                 "types": ", ".join(ae.get("eventTypes", [])),
@@ -205,8 +210,7 @@ def fetch_cyclocross_events(batch_size=25, max_batches=None):
                 "eventEndDate": ae.get("eventEndDate"),
                 "openRegDate": ae.get("openRegDate"),
                 "closeRegDate": ae.get("closeRegDate"),
-                "isRegistrationOpen": ae.get("isOpen"),
-                "categories": categories
+                "isRegistrationOpen": ae.get("isOpen")
             })
 
         if not data["pageInfo"]["hasNextPage"] or (max_batches and batch_count >= max_batches):
@@ -215,8 +219,10 @@ def fetch_cyclocross_events(batch_size=25, max_batches=None):
         cursor = data["pageInfo"]["endCursor"]
         batch_count += 1
 
-    return pd.DataFrame(events)
+    return pd.DataFrame(events), pd.DataFrame(categories), []
+
 
 if __name__ == "__main__":
-    df = fetch_cyclocross_events(batch_size=1, max_batches=1)
-    print(df.head())
+    events_df, categories_df, [] = fetch_cyclocross_events(batch_size=1, max_batches=1)
+    print(events_df.head())
+    print(categories_df.head())
